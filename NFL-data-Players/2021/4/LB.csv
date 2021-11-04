@@ -2,7 +2,7 @@ PlayerName,PlayerId,Pos,Team,TacklesTot,TacklesAst,TacklesSck,TacklesTfl,Turnove
 Quincy Williams,2562954,LB,NYJ,10,2,1,2,,,,,,,,,,1,1,,,1,26.60
 C.J. Mosley,2543464,LB,NYJ,10,3,1,1,,,,,,,,,,,1,,,2,23.40
 Alec Ogletree,2540143,LB,CHI,10,2,,1,,,,,,,,,,1,,,,3,22.60
-Eric Wilson,2559012,LB,PHI,6,5,,,1,,,,,,,,,1,1,7,,4,20.93
+Eric Wilson,2559012,LB,FA,6,5,,,1,,,,,,,,,1,1,7,,4,20.93
 Foye Oluokun,2561132,LB,ATL,6,6,1,,,,,,,,,,,1,2,,,5,20.50
 Cory Littleton,2556593,LB,LV,9,5,,,,,,,,,,,,,,,,6,19.30
 Roquan Smith,2560877,LB,CHI,8,2,1,1,,,,,,,,,,,1,,,7,19.20
@@ -128,7 +128,7 @@ Christian Kuntz,2559484,LB,PIT,1,,,,,,,,,,,,,,,,,126,1.70
 Jake Martin,2561092,LB,HOU,1,,,,,,,,,,,,,,,,,127,1.70
 David Mayo,2553441,LB,WAS,1,,,,,,,,,,,,,,,,,128,1.70
 Pernell McPhee,2495201,LB,BAL,1,,,,,,,,,,,,,,,,,129,1.70
-Hardy Nickerson,2558982,LB,FA,1,,,,,,,,,,,,,,,,,130,1.70
+Hardy Nickerson,2558982,LB,HOU,1,,,,,,,,,,,,,,,,,130,1.70
 Amen Ogbongbemiga,2566499,LB,LAC,1,,,,,,,,,,,,,,,,,131,1.70
 Monty Rice,2566121,LB,TEN,1,,,,,,,,,,,,,,,,,132,1.70
 Chris Rumph II,2566508,LB,LAC,1,,,,,,,,,,,,,,,,,133,1.70
@@ -242,7 +242,7 @@ Mychal Kendricks,2532890,LB,FA,,,,,,,,,,,,,,,,,,240,0.00
 Jordan Kunaszyk,2563127,LB,WAS,,,,,,,,,,,,,,,,,,241,0.00
 Harvey Langi,2558963,LB,NE,,,,,,,,,,,,,,,,,,242,0.00
 Shaq Lawson,2555252,LB,NYJ,,,,,,,,,,,,,,,,,,243,0.00
-Marquel Lee,2557972,LB,FA,,,,,,,,,,,,,,,,,,244,0.00
+Marquel Lee,2557972,LB,LV,,,,,,,,,,,,,,,,,,244,0.00
 Sean Lee,496937,LB,FA,,,,,,,,,,,,,,,,,,245,0.00
 Aaron Lynch,2543650,LB,FA,,,,,,,,,,,,,,,,,,246,0.00
 Cassh Maluia,2564622,LB,FA,,,,,,,,,,,,,,,,,,247,0.00
