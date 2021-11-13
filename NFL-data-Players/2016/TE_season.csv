@@ -1,5 +1,5 @@
 PlayerName,PlayerId,Pos,Team,PassingYDS,PassingTD,PassingInt,RushingYDS,RushingTD,ReceivingRec,ReceivingYDS,ReceivingTD,RetTD,FumTD,2PT,Fum,FanPtsAgainst-pts,TouchCarries,TouchReceptions,Touches,TargetsReceptions,Targets,ReceptionPercentage,RzTarget,RzTouch,RzG2G,Rank,TotalPoints
-Travis Kelce,2540258,TE,KC,,,,,,85,1125,4,,,1,,3.83,1,85,86,85,117,73,18,10,8,1,180.50
+Travis Kelce,2540258,TE,KC,,,,-5,,85,1125,4,,,1,,3.83,1,85,86,85,117,73,18,10,8,1,180.50
 Greg Olsen,2495700,TE,FA,,,,,,80,1073,3,,,1,,,,,,,,,,,,2,170.70
 Jimmy Graham,497236,TE,CHI,,,,,,65,923,6,,,,2,,,,,,,,,,,3,158.50
 Zach Ertz,2540158,TE,ARI,,,,,,78,816,4,,,,,4.80,,78,78,78,106,74,17,8,5,4,146.30
@@ -7,7 +7,7 @@ Cameron Brate,2550656,TE,TB,,,,,,57,660,8,,,,1,2.06,,57,57,57,81,70,17,11,6,5,14
 Jordan Reed,2540160,TE,FA,,,,,,66,686,6,,,,1,,,,,,,,,,,6,135.60
 Jason Witten,2505629,TE,FA,,,,,,69,673,3,,,,1,,,,,,,,,,,7,122.90
 Jack Doyle,2540232,TE,IND,,,,,,59,584,5,,,,1,,,,,,,,,,,8,121.00
-Eric Ebron,2543466,TE,PIT,,,,,1,61,711,1,,,,,6.23,1,61,62,61,85,72,6,6,2,9,115.40
+Eric Ebron,2543466,TE,PIT,,,,1,1,61,711,1,,,,,6.23,1,61,62,61,85,72,6,6,2,9,115.40
 Tyler Eifert,2540148,TE,FA,,,,,,29,394,5,,,,,,,,,,,,,,,10,85.60
 Rob Gronkowski,497240,TE,TB,,,,,,25,540,3,,,,,2.06,,25,25,25,38,66,6,3,3,11,84.50
 Ryan Griffin,2541316,TE,NYJ,,,,,,50,442,2,,,,1,5.34,,50,50,50,74,68,8,5,2,12,82.60
