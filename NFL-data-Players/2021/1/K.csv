@@ -1,6 +1,6 @@
 PlayerName,PlayerId,Pos,Team,PlayerOpponent,PatMade,PatMissed,FgMade_0-19,FgMade_20-29,FgMade_30-39,FgMade_40-49,FgMade_50,FgMiss_0-19,FgMiss_20-29,FgMiss_30-39,Rank,TotalPoints
 Robbie Gould,2506264,K,SF,@DET,5,,,,,1,1,,,,1,14.00
-Joey Slye,2563132,K,FA,Bye,4,,,2,,1,,,,,2,14.00
+Joey Slye,2563132,K,WAS,LAC,4,,,2,,1,,,,,2,14.00
 Chris Boswell,2550545,K,PIT,@BUF,2,,,2,,1,,,,,3,12.00
 Matt Gay,2562271,K,LA,CHI,4,,,1,,,1,,,,4,12.00
 Dustin Hopkins,2539227,K,LAC,@WAS,1,,,,1,2,,,,,5,12.00
@@ -25,14 +25,14 @@ Rodrigo Blankenship,2564106,K,IND,SEA,1,,,1,,,,,,,23,4.00
 Jason Myers,2553112,K,SEA,@IND,4,,,,,,,,,,24,4.00
 Ryan Santoso,2561269,K,DET,SF,1,1,,2,,,,,,,25,4.00
 Mason Crosby,2507232,K,GB,@NO,,,,,1,,,,,,26,3.00
-Josh Lambo,2553833,K,PIT,@BUF,3,,,,,,,,,,27,3.00
+Josh Lambo,2553833,K,FA,Bye,3,,,,,,,,,,27,3.00
 Chase McLaughlin,2563203,K,CLE,@KC,3,,,,,,,,,,28,3.00
 Cairo Santos,2550636,K,CHI,@LA,2,,,,,,,,,,29,2.00
 Graham Gano,71309,K,NYG,DEN,1,,,,,,,,,,30,1.00
 Roberto Aguayo,2555408,K,FA,Bye,,,,,,,,,,,31,0.00
 Matt Ammendola,2565555,K,NYJ,@CAR,,,,,,,,,,,32,0.00
 Dan Bailey,2495259,K,FA,Bye,,,,,,,,,,,33,0.00
-Chris Blewitt,2562800,K,WAS,LAC,,,,,,,,,,,34,0.00
+Chris Blewitt,2562800,K,FA,Bye,,,,,,,,,,,34,0.00
 Randy Bullock,2533444,K,TEN,ARI,,,,,,,,,,,35,0.00
 Chandler Catanzaro,2550325,K,FA,Bye,,,,,,,,,,,36,0.00
 Dominik Eberle,2565360,K,FA,Bye,,,,,,,,,,,37,0.00
