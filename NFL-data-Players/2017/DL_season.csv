@@ -15,7 +15,7 @@ Damon Harrison,2535718,DL,FA,51,25,1.5,7,1,,,,,,,,,3,3,9,,13,133.00
 DeForest Buckner,2555275,DL,IND,45,16,3,5,,1,,,,,,,,5,22,,,14,129.80
 Akiem Hicks,2533433,DL,CHI,39,15,8.5,15,,,2,,,,,,,,20,,,15,129.80
 Yannick Ngakoue,2555421,DL,LV,24,6,12,10,,6,2,,1,,,,,,23,,67,16,125.33
-Jabaal Sheard,2495228,DL,MIA,37,15,5.5,8,,2,,,,,,,,3,14,,,17,119.40
+Jabaal Sheard,2495228,DL,FA,37,15,5.5,8,,2,,,,,,,,3,14,,,17,119.40
 Malik Jackson,2532873,DL,CLE,31,9,8,10,,4,,,,,,,,3,11,,,18,117.90
 Michael Brockers,2533050,DL,DET,39,16,4.5,8,,,,,,,,,1,4,8,,,19,117.10
 Mario Addison,2530474,DL,BUF,27,17,11,10,,2,,,,,,,,1,15,,,20,113.50
@@ -124,7 +124,7 @@ Montravius Adams,2557876,DL,NO,,,,,,,,,,,,,,,,,,122,0.00
 Myles Adams,2563620,DL,SEA,,,,,,,,,,,,,,,,,,123,0.00
 McTelvin Agim,2563872,DL,DEN,,,,,,,,,,,,,,,,,,124,0.00
 Zach Allen,2562219,DL,ARI,,,,,,,,,,,,,,,,,,125,0.00
-Auzoyah Alufohai,2564061,DL,GB,,,,,,,,,,,,,,,,,,126,0.00
+Auzoyah Alufohai,2564061,DL,FA,,,,,,,,,,,,,,,,,,126,0.00
 Bradlee Anae,2563821,DL,DAL,,,,,,,,,,,,,,,,,,127,0.00
 Abdullah Anderson,2561088,DL,GB,,,,,,,,,,,,,,,,,,128,0.00
 Dorance Armstrong,2560959,DL,DAL,,,,,,,,,,,,,,,,,,129,0.00
@@ -133,7 +133,7 @@ David Bada,2565526,DL,WAS,,,,,,,,,,,,,,,,,,131,0.00
 Ben Banogu,2562229,DL,IND,,,,,,,,,,,,,,,,,,132,0.00
 Christian Barmore,2566328,DL,NE,,,,,,,,,,,,,,,,,,133,0.00
 Boogie Basham,2565863,DL,BUF,,,,,,,,,,,,,,,,,,134,0.00
-Andrew Billings,2555267,DL,FA,,,,,,,,,,,,,,,,,,135,0.00
+Andrew Billings,2555267,DL,MIA,,,,,,,,,,,,,,,,,,135,0.00
 Ross Blacklock,2564064,DL,HOU,,,,,,,,,,,,,,,,,,136,0.00
 Amani Bledsoe,2562859,DL,TEN,,,,,,,,,,,,,,,,,,137,0.00
 Nick Bosa,2562629,DL,SF,,,,,,,,,,,,,,,,,,138,0.00
@@ -171,7 +171,7 @@ Carlos Davis,2564976,DL,PIT,,,,,,,,,,,,,,,,,,169,0.00
 Khalil Davis,2565210,DL,PIT,,,,,,,,,,,,,,,,,,170,0.00
 Raekwon Davis,2564445,DL,MIA,,,,,,,,,,,,,,,,,,171,0.00
 Sheldon Day,2555241,DL,CLE,,,,,,,,,,,,,,,,,,172,0.00
-Matt Dickerson,2561044,DL,ARI,,,,,,,,,,,,,,,,,,173,0.00
+Matt Dickerson,2561044,DL,FA,,,,,,,,,,,,,,,,,,173,0.00
 Victor Dimukeje,2566424,DL,ARI,,,,,,,,,,,,,,,,,,174,0.00
 Daniel Ekuale,2561458,DL,NE,,,,,,,,,,,,,,,,,,175,0.00
 Jordan Elliott,2563779,DL,CLE,,,,,,,,,,,,,,,,,,176,0.00
@@ -220,7 +220,7 @@ David Irving,2553805,DL,FA,,,,,,,,,,,,,,,,,,218,0.00
 Joe Jackson,2562432,DL,CLE,,,,,,,,,,,,,,,,,,219,0.00
 Tarron Jackson,2566400,DL,PHI,,,,,,,,,,,,,,,,,,220,0.00
 Darryl Johnson,2562672,DL,CAR,,,,,,,,,,,,,,,,,,221,0.00
-P.J. Johnson,2562923,DL,FA,,,,,,,,,,,,,,,,,,222,0.00
+P.J. Johnson,2562923,DL,LV,,,,,,,,,,,,,,,,,,222,0.00
 Patrick Johnson,2566403,DL,PHI,,,,,,,,,,,,,,,,,,223,0.00
 Benito Jones,2564466,DL,MIA,,,,,,,,,,,,,,,,,,224,0.00
 Dre'Mont Jones,2562412,DL,DEN,,,,,,,,,,,,,,,,,,225,0.00
@@ -245,11 +245,11 @@ Star Lotulelei,2539329,DL,BUF,,,,,,,,,,,,,,,,,,243,0.00
 Isaiahh Loudermilk,2566457,DL,PIT,,,,,,,,,,,,,,,,,,244,0.00
 James Lynch,2564565,DL,MIN,,,,,,,,,,,,,,,,,,245,0.00
 Daylon Mack,2562308,DL,FA,,,,,,,,,,,,,,,,,,246,0.00
-Isaiah Mack,2563245,DL,PIT,,,,,,,,,,,,,,,,,,247,0.00
+Isaiah Mack,2563245,DL,BAL,,,,,,,,,,,,,,,,,,247,0.00
 Justin Madubuike,2563563,DL,BAL,,,,,,,,,,,,,,,,,,248,0.00
 Hercules Mata'afa,2560799,DL,FA,,,,,,,,,,,,,,,,,,249,0.00
 R.J. McIntosh,2560806,DL,GB,,,,,,,,,,,,,,,,,,250,0.00
-Kahlil McKenzie,2560807,DL,BAL,,,,,,,,,,,,,,,,,,251,0.00
+Kahlil McKenzie,2560807,DL,FA,,,,,,,,,,,,,,,,,,251,0.00
 David Moa,2564571,DL,NYG,,,,,,,,,,,,,,,,,,252,0.00
 Henry Mondeaux,2561243,DL,PIT,,,,,,,,,,,,,,,,,,253,0.00
 Bryan Mone,2562914,DL,SEA,,,,,,,,,,,,,,,,,,254,0.00
@@ -283,7 +283,7 @@ Willington Previlon,2564016,DL,TB,,,,,,,,,,,,,,,,,,281,0.00
 Durval Queiroz,2562867,DL,MIA,,,,,,,,,,,,,,,,,,282,0.00
 Wyatt Ray,2562709,DL,CIN,,,,,,,,,,,,,,,,,,283,0.00
 D.J. Reader,2555388,DL,CIN,,,,,,,,,,,,,,,,,,284,0.00
-Caraun Reid,2543748,DL,FA,,,,,,,,,,,,,,,,,,285,0.00
+Caraun Reid,2543748,DL,LAC,,,,,,,,,,,,,,,,,,285,0.00
 Sam Renner,2564391,DL,FA,,,,,,,,,,,,,,,,,,286,0.00
 Hassan Ridgeway,2555514,DL,PHI,,,,,,,,,,,,,,,,,,287,0.00
 Derek Rivers,2558040,DL,HOU,,,,,,,,,,,,,,,,,,288,0.00
@@ -303,14 +303,14 @@ Nathan Shepherd,2560873,DL,NYJ,,,,,,,,,,,,,,,,,,301,0.00
 Zach Sieler,2561129,DL,MIA,,,,,,,,,,,,,,,,,,302,0.00
 Jeffery Simmons,2562733,DL,TEN,,,,,,,,,,,,,,,,,,303,0.00
 Deyon Sizer,2563254,DL,FA,,,,,,,,,,,,,,,,,,304,0.00
-Chris Slayton,2562735,DL,FA,,,,,,,,,,,,,,,,,,305,0.00
+Chris Slayton,2562735,DL,SF,,,,,,,,,,,,,,,,,,305,0.00
 Aldon Smith,2495487,DL,FA,,,,,,,,,,,,,,,,,,306,0.00
 Elerson G. Smith,2566373,DL,NYG,,,,,,,,,,,,,,,,,,307,0.00
 James Smith-Williams,2565291,DL,WAS,,,,,,,,,,,,,,,,,,308,0.00
 Marquiss Spencer,2566037,DL,DEN,,,,,,,,,,,,,,,,,,309,0.00
 Taylor Stallworth,2560882,DL,IND,,,,,,,,,,,,,,,,,,310,0.00
 Kentavius Street,2560885,DL,SF,,,,,,,,,,,,,,,,,,311,0.00
-Kevin Strong,2563197,DL,DET,,,,,,,,,,,,,,,,,,312,0.00
+Kevin Strong,2563197,DL,FA,,,,,,,,,,,,,,,,,,312,0.00
 Jason Strowbridge,2564496,DL,FA,,,,,,,,,,,,,,,,,,313,0.00
 Josh Sweat,2560889,DL,PHI,,,,,,,,,,,,,,,,,,314,0.00
 Montez Sweat,2562749,DL,WAS,,,,,,,,,,,,,,,,,,315,0.00
