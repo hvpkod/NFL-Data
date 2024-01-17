@@ -77,7 +77,7 @@ Montravius Adams,2557876,DL,PIT,CIN,1,1,,1,,,,,,,,,,,,,,75,4.00
 Byron Cowart,2562392,DL,IND,PHI,1,1,,1,,,,,,,,,,,,,,76,4.00
 Hassan Ridgeway,2555514,DL,SF,@ARI,1,1,,1,,,,,,,,,,,,,,77,4.00
 Tim Settle,2560871,DL,BUF,CLE,1,1,,1,,,,,,,,,,,,,,78,4.00
-Michael Dwumfour,2565723,DL,HOU,WAS,2,,,,,,,,,,,,,,1,,,79,3.90
+Michael Dwumfour,2565723,DL,SF,@ARI,2,,,,,,,,,,,,,,1,,,79,3.90
 T.Y. McGill,2553911,DL,SF,@ARI,2,,,,,,,,,,,,,,1,,,80,3.90
 Zach Allen,2562219,DL,ARI,SF,1,2,,,,,,,,,,,,,1,,,81,3.80
 Trysten Hill,2562663,DL,ARI,SF,1,,,1,,,,,,,,,,,1,,,82,3.70
@@ -153,7 +153,7 @@ Dre'Mont Jones,2562412,DL,DEN,LV,,,,,,,,,,,,,,,1,,,151,0.50
 George Karlaftis,2567796,DL,KC,@LAC,,,,,,,,,,,,,,,1,,,152,0.50
 Cameron Thomas,2568129,DL,ARI,SF,,,,,,,,,,,,,,,1,,,153,0.50
 Myles Adams,2563620,DL,SEA,Bye,,,,,,,,,,,,,,,,,,154,0.00
-McTelvin Agim,2563872,DL,DEN,LV,,,,,,,,,,,,,,,,,,155,0.00
+McTelvin Agim,2563872,DL,IND,PHI,,,,,,,,,,,,,,,,,,155,0.00
 Auzoyah Alufohai,2564061,DL,FA,Bye,,,,,,,,,,,,,,,,,,156,0.00
 Bradlee Anae,2563821,DL,NYJ,@NE,,,,,,,,,,,,,,,,,,157,0.00
 Henry Anderson,2552272,DL,CAR,@BAL,,,,,,,,,,,,,,,,,,158,0.00
@@ -176,13 +176,13 @@ Will Bradley-King,2566583,DL,WAS,@HOU,,,,,,,,,,,,,,,,,,174,0.00
 Jordan Brailford,2562441,DL,FA,Bye,,,,,,,,,,,,,,,,,,175,0.00
 Michael Brockers,2533050,DL,DET,@NYG,,,,,,,,,,,,,,,,,,176,0.00
 Josiah Bronson,2565690,DL,MIA,Bye,,,,,,,,,,,,,,,,,,177,0.00
-Curtis Brooks,2567697,DL,IND,PHI,,,,,,,,,,,,,,,,,,178,0.00
-Cortez Broughton,2562823,DL,FA,Bye,,,,,,,,,,,,,,,,,,179,0.00
+Curtis Brooks,2567697,DL,FA,Bye,,,,,,,,,,,,,,,,,,178,0.00
+Cortez Broughton,2562823,DL,BUF,CLE,,,,,,,,,,,,,,,,,,179,0.00
 Andrew Brown,2560979,DL,CHI,@ATL,,,,,,,,,,,,,,,,,,180,0.00
 Bobby Brown III,2566199,DL,LA,@NO,,,,,,,,,,,,,,,,,,181,0.00
 Earnest Brown IV,2566202,DL,LA,@NO,,,,,,,,,,,,,,,,,,182,0.00
 Malcom Brown,2552483,DL,FA,Bye,,,,,,,,,,,,,,,,,,183,0.00
-Brandin Bryant,2556486,DL,HOU,WAS,,,,,,,,,,,,,,,,,,184,0.00
+Brandin Bryant,2556486,DL,FA,Bye,,,,,,,,,,,,,,,,,,184,0.00
 Adam Butler,2558924,DL,FA,Bye,,,,,,,,,,,,,,,,,,185,0.00
 Matthew Butler,2567871,DL,LV,@DEN,,,,,,,,,,,,,,,,,,186,0.00
 Vernon Butler,2555243,DL,NYG,DET,,,,,,,,,,,,,,,,,,187,0.00
@@ -202,9 +202,9 @@ Carlos Davis,2564976,DL,PIT,CIN,,,,,,,,,,,,,,,,,,200,0.00
 Jamal Davis,2562438,DL,FA,Bye,,,,,,,,,,,,,,,,,,201,0.00
 Jordan Davis,2568069,DL,PHI,@IND,,,,,,,,,,,,,,,,,,202,0.00
 Kalia Davis,2568204,DL,SF,@ARI,,,,,,,,,,,,,,,,,,203,0.00
-Khalil Davis,2565210,DL,FA,Bye,,,,,,,,,,,,,,,,,,204,0.00
+Khalil Davis,2565210,DL,LA,@NO,,,,,,,,,,,,,,,,,,204,0.00
 Raekwon Davis,2564445,DL,MIA,Bye,,,,,,,,,,,,,,,,,,205,0.00
-Sheldon Day,2555241,DL,FA,Bye,,,,,,,,,,,,,,,,,,206,0.00
+Sheldon Day,2555241,DL,MIN,DAL,,,,,,,,,,,,,,,,,,206,0.00
 Micah Dew-Treadway,2567382,DL,FA,Bye,,,,,,,,,,,,,,,,,,207,0.00
 Matt Dickerson,2561044,DL,ATL,CHI,,,,,,,,,,,,,,,,,,208,0.00
 De'Shaan Dixon,2567736,DL,JAX,Bye,,,,,,,,,,,,,,,,,,209,0.00
@@ -216,7 +216,7 @@ Foley Fatukasi,2560722,DL,JAX,Bye,,,,,,,,,,,,,,,,,,214,0.00
 Ali Fayad,2568081,DL,FA,Bye,,,,,,,,,,,,,,,,,,215,0.00
 Jonathan Ford,2567592,DL,GB,TEN,,,,,,,,,,,,,,,,,,216,0.00
 Poona Ford,2561195,DL,SEA,Bye,,,,,,,,,,,,,,,,,,217,0.00
-Elijah Garcia,2567829,DL,LA,@NO,,,,,,,,,,,,,,,,,,218,0.00
+Elijah Garcia,2567829,DL,DEN,LV,,,,,,,,,,,,,,,,,,218,0.00
 William Gholston,2540176,DL,TB,Bye,,,,,,,,,,,,,,,,,,219,0.00
 Matt Gotel,2568243,DL,FA,Bye,,,,,,,,,,,,,,,,,,220,0.00
 Adam Gotsis,2555502,DL,JAX,Bye,,,,,,,,,,,,,,,,,,221,0.00
@@ -283,17 +283,17 @@ Mike Love,2561536,DL,BUF,CLE,,,,,,,,,,,,,,,,,,281,0.00
 Isaiah Mack,2563245,DL,BAL,CAR,,,,,,,,,,,,,,,,,,282,0.00
 Ledarius Mack,2565408,DL,FA,Bye,,,,,,,,,,,,,,,,,,283,0.00
 Justin Madubuike,2563563,DL,BAL,CAR,,,,,,,,,,,,,,,,,,284,0.00
-Jonathan Marshall,2565741,DL,NYJ,@NE,,,,,,,,,,,,,,,,,,285,0.00
+Jonathan Marshall,2565741,DL,PIT,CIN,,,,,,,,,,,,,,,,,,285,0.00
 Phidarian Mathis,2568339,DL,WAS,@HOU,,,,,,,,,,,,,,,,,,286,0.00
 Malik McDowell,2557970,DL,FA,Bye,,,,,,,,,,,,,,,,,,287,0.00
 R.J. McIntosh,2560806,DL,MIA,Bye,,,,,,,,,,,,,,,,,,288,0.00
 Forrest Merrill,2566493,DL,LAC,KC,,,,,,,,,,,,,,,,,,289,0.00
 David Moa,2564571,DL,LAC,KC,,,,,,,,,,,,,,,,,,290,0.00
 Bryan Mone,2562914,DL,SEA,Bye,,,,,,,,,,,,,,,,,,291,0.00
-Larrell Murchison,2564055,DL,TEN,@GB,,,,,,,,,,,,,,,,,,292,0.00
+Larrell Murchison,2564055,DL,LA,@NO,,,,,,,,,,,,,,,,,,292,0.00
 Bill Murray,2564625,DL,NE,NYJ,,,,,,,,,,,,,,,,,,293,0.00
 Rayshad Nichols,2567298,DL,BAL,CAR,,,,,,,,,,,,,,,,,,294,0.00
-Daviyon Nixon,2565905,DL,CAR,@BAL,,,,,,,,,,,,,,,,,,295,0.00
+Daviyon Nixon,2565905,DL,FA,Bye,,,,,,,,,,,,,,,,,,295,0.00
 Derrick Nnadi,2560823,DL,KC,@LAC,,,,,,,,,,,,,,,,,,296,0.00
 Dion Novil,2567850,DL,FA,Bye,,,,,,,,,,,,,,,,,,297,0.00
 Rakeem Nunez-Roches,2552674,DL,TB,Bye,,,,,,,,,,,,,,,,,,298,0.00
@@ -317,7 +317,7 @@ Willington Previlon,2564016,DL,TB,Bye,,,,,,,,,,,,,,,,,,315,0.00
 Hauati Pututau,2567610,DL,FA,Bye,,,,,,,,,,,,,,,,,,316,0.00
 Robert Quinn,2495485,DL,PHI,@IND,,,,,,,,,,,,,,,,,,317,0.00
 Sheldon Rankins,2555242,DL,NYJ,@NE,,,,,,,,,,,,,,,,,,318,0.00
-Hamilcar Rashed Jr.,2565756,DL,FA,Bye,,,,,,,,,,,,,,,,,,319,0.00
+Hamilcar Rashed Jr.,2565756,DL,TB,Bye,,,,,,,,,,,,,,,,,,319,0.00
 D.J. Reader,2555388,DL,CIN,@PIT,,,,,,,,,,,,,,,,,,320,0.00
 Derek Rivers,2558040,DL,HOU,WAS,,,,,,,,,,,,,,,,,,321,0.00
 Malcolm Roach,2564688,DL,NO,LA,,,,,,,,,,,,,,,,,,322,0.00
@@ -329,7 +329,7 @@ Quincy Roche,2566466,DL,NYG,DET,,,,,,,,,,,,,,,,,,327,0.00
 Isaac Rochell,2557860,DL,CLE,@BUF,,,,,,,,,,,,,,,,,,328,0.00
 Bunmi Rotimi,2560859,DL,FA,Bye,,,,,,,,,,,,,,,,,,329,0.00
 Greg Rousseau,2565875,DL,BUF,CLE,,,,,,,,,,,,,,,,,,330,0.00
-Anthony Rush,2563200,DL,FA,Bye,,,,,,,,,,,,,,,,,,331,0.00
+Anthony Rush,2563200,DL,DAL,@MIN,,,,,,,,,,,,,,,,,,331,0.00
 Delontae Scott,2564025,DL,FA,Bye,,,,,,,,,,,,,,,,,,332,0.00
 Deadrin Senat,2560869,DL,TB,Bye,,,,,,,,,,,,,,,,,,333,0.00
 Tyler Shelvin,2565962,DL,FA,Bye,,,,,,,,,,,,,,,,,,334,0.00
@@ -343,8 +343,8 @@ T.J. Smith,2565081,DL,MIN,DAL,,,,,,,,,,,,,,,,,,341,0.00
 Tyreke Smith,2568276,DL,SEA,Bye,,,,,,,,,,,,,,,,,,342,0.00
 Dawuane Smoot,2557839,DL,JAX,Bye,,,,,,,,,,,,,,,,,,343,0.00
 Noah Spence,2555312,DL,FA,Bye,,,,,,,,,,,,,,,,,,344,0.00
-Marquiss Spencer,2566037,DL,FA,Bye,,,,,,,,,,,,,,,,,,345,0.00
-Taylor Stallworth,2560882,DL,FA,Bye,,,,,,,,,,,,,,,,,,346,0.00
+Marquiss Spencer,2566037,DL,NYJ,@NE,,,,,,,,,,,,,,,,,,345,0.00
+Taylor Stallworth,2560882,DL,HOU,WAS,,,,,,,,,,,,,,,,,,346,0.00
 Darius Stills,2565660,DL,FA,Bye,,,,,,,,,,,,,,,,,,347,0.00
 Darrell Taylor,2565198,DL,SEA,Bye,,,,,,,,,,,,,,,,,,348,0.00
 Jullian Taylor,2561078,DL,FA,Bye,,,,,,,,,,,,,,,,,,349,0.00
@@ -364,7 +364,7 @@ Kemoko Turay,2560905,DL,SF,@ARI,,,,,,,,,,,,,,,,,,362,0.00
 Jaylen Twyman,2566325,DL,MIA,Bye,,,,,,,,,,,,,,,,,,363,0.00
 Eyioma Uwazurike,2567535,DL,DEN,LV,,,,,,,,,,,,,,,,,,364,0.00
 Vita Vea,2560909,DL,TB,Bye,,,,,,,,,,,,,,,,,,365,0.00
-Kendal Vickers,2561416,DL,FA,Bye,,,,,,,,,,,,,,,,,,366,0.00
+Kendal Vickers,2561416,DL,BUF,CLE,,,,,,,,,,,,,,,,,,366,0.00
 Travon Walker,2567778,DL,JAX,Bye,,,,,,,,,,,,,,,,,,367,0.00
 Tim Ward,2562939,DL,GB,TEN,,,,,,,,,,,,,,,,,,368,0.00
 Curtis Weaver,2564502,DL,FA,Bye,,,,,,,,,,,,,,,,,,369,0.00
@@ -375,7 +375,7 @@ Kenny Willekes,2564580,DL,MIN,DAL,,,,,,,,,,,,,,,,,,373,0.00
 Chris Williams,2564154,DL,IND,PHI,,,,,,,,,,,,,,,,,,374,0.00
 Jonah Williams,2564403,DL,LA,@NO,,,,,,,,,,,,,,,,,,375,0.00
 Raequan Williams,2564883,DL,CAR,@BAL,,,,,,,,,,,,,,,,,,376,0.00
-Marvin Wilson,2566803,DL,FA,Bye,,,,,,,,,,,,,,,,,,377,0.00
+Marvin Wilson,2566803,DL,PHI,@IND,,,,,,,,,,,,,,,,,,377,0.00
 Rob Windsor,2564157,DL,FA,Bye,,,,,,,,,,,,,,,,,,378,0.00
 Perrion Winfrey,2567478,DL,CLE,@BUF,,,,,,,,,,,,,,,,,,379,0.00
 Chase Winovich,2562607,DL,CLE,@BUF,,,,,,,,,,,,,,,,,,380,0.00

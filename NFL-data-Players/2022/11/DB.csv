@@ -205,10 +205,10 @@ Chidobe Awuzie,2557840,DB,CIN,@PIT,,,,,,,,,,,,,,,,,,203,0.00
 Deandre Baker,2562227,DB,FA,Bye,,,,,,,,,,,,,,,,,,204,0.00
 Corey Ballentine,2562228,DB,GB,TEN,,,,,,,,,,,,,,,,,,205,0.00
 Luq Barcoo,2564160,DB,FA,Bye,,,,,,,,,,,,,,,,,,206,0.00
-Kalon Barnes,2567343,DB,MIA,Bye,,,,,,,,,,,,,,,,,,207,0.00
+Kalon Barnes,2567343,DB,MIN,DAL,,,,,,,,,,,,,,,,,,207,0.00
 Justin Bethel,2532792,DB,MIA,Bye,,,,,,,,,,,,,,,,,,208,0.00
 Henry Black,2563974,DB,IND,PHI,,,,,,,,,,,,,,,,,,209,0.00
-Marquise Blair,2562233,DB,PHI,@IND,,,,,,,,,,,,,,,,,,210,0.00
+Marquise Blair,2562233,DB,FA,Bye,,,,,,,,,,,,,,,,,,210,0.00
 Joshuah Bledsoe,2566331,DB,NE,NYJ,,,,,,,,,,,,,,,,,,211,0.00
 Joey Blount,2568225,DB,SEA,Bye,,,,,,,,,,,,,,,,,,212,0.00
 Bubba Bolden,2568228,DB,CLE,@BUF,,,,,,,,,,,,,,,,,,213,0.00
@@ -236,7 +236,7 @@ Amari Carter,2567373,DB,FA,Bye,,,,,,,,,,,,,,,,,,234,0.00
 Shyheim Carter,2565498,DB,FA,Bye,,,,,,,,,,,,,,,,,,235,0.00
 T.J. Carter,2567823,DB,LA,@NO,,,,,,,,,,,,,,,,,,236,0.00
 Tariq Castro-Fields,2568201,DB,WAS,@HOU,,,,,,,,,,,,,,,,,,237,0.00
-Andre Chachere,2561016,DB,FA,Bye,,,,,,,,,,,,,,,,,,238,0.00
+Andre Chachere,2561016,DB,PHI,@IND,,,,,,,,,,,,,,,,,,238,0.00
 Sean Chandler,2561017,DB,CAR,@BAL,,,,,,,,,,,,,,,,,,239,0.00
 Anthony Chesley,2563235,DB,TB,Bye,,,,,,,,,,,,,,,,,,240,0.00
 Lewis Cine,2567910,DB,MIN,DAL,,,,,,,,,,,,,,,,,,241,0.00
@@ -286,7 +286,7 @@ Benjie Franklin,2567742,DB,FA,Bye,,,,,,,,,,,,,,,,,,284,0.00
 Jordan Fuller,2564340,DB,LA,@NO,,,,,,,,,,,,,,,,,,285,0.00
 Innis Gaines,2565591,DB,GB,TEN,,,,,,,,,,,,,,,,,,286,0.00
 Mark Gilbert,2565783,DB,PIT,CIN,,,,,,,,,,,,,,,,,,287,0.00
-Tyree Gillespie,2566256,DB,JAX,Bye,,,,,,,,,,,,,,,,,,288,0.00
+Tyree Gillespie,2566256,DB,FA,Bye,,,,,,,,,,,,,,,,,,288,0.00
 Jeff Gladney,2564541,DB,FA,Bye,,,,,,,,,,,,,,,,,,289,0.00
 Mario Goodrich,2568084,DB,PHI,@IND,,,,,,,,,,,,,,,,,,290,0.00
 Tay Gowan,2566427,DB,MIN,DAL,,,,,,,,,,,,,,,,,,291,0.00
@@ -295,7 +295,7 @@ J.T. Gray,2561206,DB,NO,LA,,,,,,,,,,,,,,,,,,293,0.00
 Allie Green,2567394,DB,FA,Bye,,,,,,,,,,,,,,,,,,294,0.00
 Olaijah Griffin,2566635,DB,FA,Bye,,,,,,,,,,,,,,,,,,295,0.00
 Shaquill Griffin,2558259,DB,JAX,Bye,,,,,,,,,,,,,,,,,,296,0.00
-Javelin Guidry,2565504,DB,FA,Bye,,,,,,,,,,,,,,,,,,297,0.00
+Javelin Guidry,2565504,DB,ATL,CHI,,,,,,,,,,,,,,,,,,297,0.00
 Javon Hagan,2565219,DB,FA,Bye,,,,,,,,,,,,,,,,,,298,0.00
 Nate Hairston,2558108,DB,ARI,SF,,,,,,,,,,,,,,,,,,299,0.00
 Grant Haley,2561001,DB,LA,@NO,,,,,,,,,,,,,,,,,,300,0.00
@@ -303,7 +303,7 @@ Bryce Hall,2564796,DB,NYJ,@NE,,,,,,,,,,,,,,,,,,301,0.00
 Kemon Hall,2562975,DB,LAC,KC,,,,,,,,,,,,,,,,,,302,0.00
 Harrison Hand,2564547,DB,CHI,@ATL,,,,,,,,,,,,,,,,,,303,0.00
 Madre Harper,2564421,DB,CAR,@BAL,,,,,,,,,,,,,,,,,,304,0.00
-Anthony Harris,2553655,DB,FA,Bye,,,,,,,,,,,,,,,,,,305,0.00
+Anthony Harris,2553655,DB,PHI,@IND,,,,,,,,,,,,,,,,,,305,0.00
 Tim Harris,2562949,DB,FA,Bye,,,,,,,,,,,,,,,,,,306,0.00
 Myles Hartsfield,2563644,DB,CAR,@BAL,,,,,,,,,,,,,,,,,,307,0.00
 Casey Hayward,2532861,DB,ATL,CHI,,,,,,,,,,,,,,,,,,308,0.00
@@ -315,7 +315,7 @@ Faion Hicks,2567526,DB,DEN,LV,,,,,,,,,,,,,,,,,,313,0.00
 Daxton Hill,2567451,DB,CIN,@PIT,,,,,,,,,,,,,,,,,,314,0.00
 Nate Hobbs,2566259,DB,LV,@DEN,,,,,,,,,,,,,,,,,,315,0.00
 Jevon Holland,2566283,DB,MIA,Bye,,,,,,,,,,,,,,,,,,316,0.00
-Ka'dar Hollman,2562940,DB,FA,Bye,,,,,,,,,,,,,,,,,,317,0.00
+Ka'dar Hollman,2562940,DB,MIA,Bye,,,,,,,,,,,,,,,,,,317,0.00
 Amani Hooker,2562666,DB,TEN,@GB,,,,,,,,,,,,,,,,,,318,0.00
 Malik Hooker,2558060,DB,DAL,@MIN,,,,,,,,,,,,,,,,,,319,0.00
 Xavien Howard,2555539,DB,MIA,Bye,,,,,,,,,,,,,,,,,,320,0.00
@@ -352,14 +352,14 @@ Karl Joseph,2555342,DB,PIT,CIN,,,,,,,,,,,,,,,,,,350,0.00
 Michael Joseph,2560773,DB,FA,Bye,,,,,,,,,,,,,,,,,,351,0.00
 Gregory Junior,2567748,DB,JAX,Bye,,,,,,,,,,,,,,,,,,352,0.00
 Devon Key,2566995,DB,FA,Bye,,,,,,,,,,,,,,,,,,353,0.00
-Bopete Keyes,2564292,DB,FA,Bye,,,,,,,,,,,,,,,,,,354,0.00
+Bopete Keyes,2564292,DB,BAL,CAR,,,,,,,,,,,,,,,,,,354,0.00
 Miles Killebrew,2555315,DB,PIT,CIN,,,,,,,,,,,,,,,,,,355,0.00
 Luther Kirk,2565304,DB,FA,Bye,,,,,,,,,,,,,,,,,,356,0.00
 Chris Lammons,2561226,DB,KC,@LAC,,,,,,,,,,,,,,,,,,357,0.00
 Marshon Lattimore,2558061,DB,NO,LA,,,,,,,,,,,,,,,,,,358,0.00
 Justin Layne,2562479,DB,CHI,@ATL,,,,,,,,,,,,,,,,,,359,0.00
 Cre'von LeBlanc,2556587,DB,FA,Bye,,,,,,,,,,,,,,,,,,360,0.00
-Richard LeCounte III,2565977,DB,FA,Bye,,,,,,,,,,,,,,,,,,361,0.00
+Richard LeCounte III,2565977,DB,LA,@NO,,,,,,,,,,,,,,,,,,361,0.00
 Deane Leonard,2568180,DB,LAC,KC,,,,,,,,,,,,,,,,,,362,0.00
 Cam Lewis,2563205,DB,BUF,CLE,,,,,,,,,,,,,,,,,,363,0.00
 Donnie Lewis,2562910,DB,FA,Bye,,,,,,,,,,,,,,,,,,364,0.00
@@ -389,7 +389,7 @@ Tarvarius Moore,2561117,DB,SF,@ARI,,,,,,,,,,,,,,,,,,387,0.00
 Jimmy Moreland,2562858,DB,NYJ,@NE,,,,,,,,,,,,,,,,,,388,0.00
 Emmanuel Moseley,2561072,DB,SF,@ARI,,,,,,,,,,,,,,,,,,389,0.00
 Parnell Motley,2565237,DB,FA,Bye,,,,,,,,,,,,,,,,,,390,0.00
-Trayvon Mullen,2562380,DB,ARI,SF,,,,,,,,,,,,,,,,,,391,0.00
+Trayvon Mullen,2562380,DB,DAL,@MIN,,,,,,,,,,,,,,,,,,391,0.00
 Byron Murphy,2562318,DB,ARI,SF,,,,,,,,,,,,,,,,,,392,0.00
 Sean Murphy-Bunting,2562635,DB,TB,Bye,,,,,,,,,,,,,,,,,,393,0.00
 Alexander Myres,2562967,DB,FA,Bye,,,,,,,,,,,,,,,,,,394,0.00
@@ -415,7 +415,7 @@ Bobby Price,2563953,DB,DET,@NYG,,,,,,,,,,,,,,,,,,413,0.00
 Troy Pride,2563662,DB,FA,Bye,,,,,,,,,,,,,,,,,,414,0.00
 Sheldrick Redwine,2562711,DB,FA,Bye,,,,,,,,,,,,,,,,,,415,0.00
 J.R. Reed,2564220,DB,FA,Bye,,,,,,,,,,,,,,,,,,416,0.00
-John Reid,2564088,DB,ATL,CHI,,,,,,,,,,,,,,,,,,417,0.00
+John Reid,2564088,DB,TEN,@GB,,,,,,,,,,,,,,,,,,417,0.00
 Elijah Riley,2564853,DB,PIT,CIN,,,,,,,,,,,,,,,,,,418,0.00
 Amik Robertson,2564430,DB,LV,@DEN,,,,,,,,,,,,,,,,,,419,0.00
 Aaron Robinson,2566370,DB,NYG,DET,,,,,,,,,,,,,,,,,,420,0.00
@@ -471,7 +471,7 @@ Bryce Watts,2568171,DB,FA,Bye,,,,,,,,,,,,,,,,,,469,0.00
 Mark Webb,2566523,DB,LAC,KC,,,,,,,,,,,,,,,,,,470,0.00
 Chris Westry,2562902,DB,FA,Bye,,,,,,,,,,,,,,,,,,471,0.00
 Tre'Davious White,2557867,DB,BUF,CLE,,,,,,,,,,,,,,,,,,472,0.00
-Jace Whittaker,2564955,DB,FA,Bye,,,,,,,,,,,,,,,,,,473,0.00
+Jace Whittaker,2564955,DB,ARI,SF,,,,,,,,,,,,,,,,,,473,0.00
 James Wiggins,2566436,DB,FA,Bye,,,,,,,,,,,,,,,,,,474,0.00
 Chris Wilcox,2566577,DB,FA,Bye,,,,,,,,,,,,,,,,,,475,0.00
 Rachad Wildgoose,2565881,DB,WAS,@HOU,,,,,,,,,,,,,,,,,,476,0.00

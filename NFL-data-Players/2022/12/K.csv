@@ -1,7 +1,7 @@
 PlayerName,PlayerId,Pos,Team,PlayerOpponent,PatMade,PatMissed,FgMade_0-19,FgMade_20-29,FgMade_30-39,FgMade_40-49,FgMade_50,FgMiss_0-19,FgMiss_20-29,FgMiss_30-39,Rank,TotalPoints
 Nick Folk,2507225,K,NE,@MIN,2,,,2,1,1,,,,,1,15.00
 Justin Tucker,2536340,K,BAL,@JAX,1,,,3,,,1,,,,2,15.00
-Matthew Wright,2562968,K,PIT,@IND,1,,,1,,1,1,,,,3,14.70
+Matthew Wright,2562968,K,FA,Bye,1,,,1,,1,1,,,,3,14.70
 Harrison Butker,2558245,K,KC,LA,2,,,3,1,,,,,,4,14.00
 Jason Sanders,2561153,K,MIA,HOU,3,,,1,1,1,,,,,5,13.00
 Eddy Pineiro,2560842,K,CAR,DEN,2,,,1,1,1,,,,,6,12.00
