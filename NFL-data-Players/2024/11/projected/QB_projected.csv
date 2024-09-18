@@ -33,7 +33,7 @@ Jeff Driskel,2555262,QB,WAS,@PHI,,,,,,,,,,,,,0.00,31,0.00,0.0
 Max Duggan,2570278,QB,FA,Bye,,,,,,,,,,,,,,32,0.00,
 Jacob Eason,2564115,QB,FA,Bye,,,,,,,,,,,,,,33,0.00,
 Sam Ehlinger,2566142,QB,IND,@NYJ,,,,,,,,,,,,,0.00,34,0.00,0.0
-Justin Fields,2565920,QB,PIT,BAL,,,,,,,,,,,,,0.00,35,0.00,0.0
+Justin Fields,2565920,QB,PIT,BAL,,,,,,,,,,,,,14.56,35,0.00,-14.56
 Joe Flacco,382,QB,IND,@NYJ,,,,,,,,,,,,,0.00,36,0.00,0.0
 Jake Fromm,2563608,QB,DET,JAX,,,,,,,,,,,,,0.00,37,0.00,0.0
 Jimmy Garoppolo,2543801,QB,LAR,@NE,,,,,,,,,,,,,0.00,38,0.00,0.0
@@ -47,9 +47,9 @@ Taylor Heinicke,2553656,QB,LAC,CIN,,,,,,,,,,,,,0.00,45,0.00,0.0
 Justin Herbert,2565045,QB,LAC,CIN,,,,,,,,,,,,,15.39,46,0.00,-15.39
 Hendon Hooker,2569744,QB,DET,JAX,,,,,,,,,,,,,0.00,47,0.00,0.0
 Sam Howell,2568333,QB,SEA,@SF,,,,,,,,,,,,,0.00,48,0.00,0.0
-Tyler Huntley,2563560,QB,BAL,@PIT,,,,,,,,,,,,,0.00,49,0.00,0.0
+Tyler Huntley,2563560,QB,MIA,LV,,,,,,,,,,,,,0.00,49,0.00,0.0
 Jalen Hurts,2564832,QB,PHI,WAS,,,,,,,,,,,,,20.49,50,0.00,-20.49
-Lamar Jackson,2560757,QB,BAL,@PIT,,,,,,,,,,,,,19.39,51,0.00,-19.39
+Lamar Jackson,2560757,QB,BAL,@PIT,,,,,,,,,,,,,18.92,51,0.00,-18.92
 Peewee Jarrett,2572690,QB,FA,Bye,,,,,,,,,,,,,,52,0.00,
 Josh Johnson,264,QB,BAL,@PIT,,,,,,,,,,,,,0.00,53,0.00,0.0
 Daniel Jones,2562299,QB,NYG,Bye,,,,,,,,,,,,,,54,0.00,
@@ -107,7 +107,7 @@ Brett Rypien,2562718,QB,MIN,@TEN,,,,,,,,,,,,,0.00,105,0.00,0.0
 Jacob Sirmon,2573677,QB,FA,Bye,,,,,,,,,,,,,,106,0.00,
 Kedon Slovis,2573178,QB,HOU,@DAL,,,,,,,,,,,,,0.00,107,0.00,0.0
 Geno Smith,2539335,QB,SEA,@SF,,,,,,,,,,,,,12.71,108,0.00,-12.71
-Matthew Stafford,79860,QB,LAR,@NE,,,,,,,,,,,,,15.09,109,0.00,-15.09
+Matthew Stafford,79860,QB,LAR,@NE,,,,,,,,,,,,,14.05,109,0.00,-14.05
 Easton Stick,2562745,QB,LAC,CIN,,,,,,,,,,,,,0.00,110,0.00,0.0
 Jarrett Stidham,2562746,QB,DEN,ATL,,,,,,,,,,,,,0.00,111,0.00,0.0
 C.J. Stroud,2569819,QB,HOU,@DAL,,,,,,,,,,,,,17.64,112,0.00,-17.64
@@ -116,7 +116,7 @@ Colby Suits,2572862,QB,FA,Bye,,,,,,,,,,,,,,114,0.00,
 Tua Tagovailoa,2564499,QB,MIA,LV,,,,,,,,,,,,,15.99,115,0.00,-15.99
 Ryan Tannehill,2532956,QB,FA,Bye,,,,,,,,,,,,,,116,0.00,
 Tyrod Taylor,2495240,QB,NYJ,IND,,,,,,,,,,,,,0.00,117,0.00,0.0
-Skylar Thompson,2567895,QB,MIA,LV,,,,,,,,,,,,,0.00,118,0.00,0.0
+Skylar Thompson,2567895,QB,MIA,LV,,,,,,,,,,,,,1.45,118,0.00,-1.45
 Dorian Thompson-Robinson,2569672,QB,CLE,@NO,,,,,,,,,,,,,0.00,119,0.00,0.0
 Kyle Trask,2566571,QB,TB,Bye,,,,,,,,,,,,,,120,0.00,
 Jordan Travis,2572372,QB,NYJ,IND,,,,,,,,,,,,,0.00,121,0.00,0.0
@@ -126,9 +126,9 @@ PJ Walker,2558904,QB,FA,Bye,,,,,,,,,,,,,,124,0.00,
 Deshaun Watson,2558063,QB,CLE,@NO,,,,,,,,,,,,,14.27,125,0.00,-14.27
 Carson Wentz,2555259,QB,KC,@BUF,,,,,,,,,,,,,0.00,126,0.00,0.0
 Mike White,2560929,QB,BUF,KC,,,,,,,,,,,,,0.00,127,0.00,0.0
-Caleb Williams,2571913,QB,CHI,GB,,,,,,,,,,,,,15.32,128,0.00,-15.32
+Caleb Williams,2571913,QB,CHI,GB,,,,,,,,,,,,,14.46,128,0.00,-14.46
 Malik Willis,2567667,QB,GB,@CHI,,,,,,,,,,,,,0.00,129,0.00,0.0
-Russell Wilson,2532975,QB,PIT,BAL,,,,,,,,,,,,,12.20,130,0.00,-12.2
+Russell Wilson,2532975,QB,PIT,BAL,,,,,,,,,,,,,0.00,130,0.00,0.0
 Zach Wilson,2566391,QB,DEN,ATL,,,,,,,,,,,,,0.00,131,0.00,0.0
 Dresser Winn,2569990,QB,FA,Bye,,,,,,,,,,,,,,132,0.00,
 Jameis Winston,2552033,QB,CLE,@NO,,,,,,,,,,,,,0.00,133,0.00,0.0
