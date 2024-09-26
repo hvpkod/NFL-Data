@@ -1,8 +1,8 @@
 PlayerName,PlayerId,Pos,Team,PlayerOpponent,TacklesTot,TacklesAst,TacklesSck,TacklesTfl,TurnoverInt,TurnoverFrcFum,TurnoverFumRec,ScoreIntTd,ScoreFumTd,ScoreBlkTd,ScoreSaf,ScoreDef2ptRet,Blk,PDef,QBHit,ReturnIntYds,ReturnFumYds,Rank,TotalPoints
 Daiyan Henley,2570281,LB,LAC,@PIT,9,3,,1,,,,,,,,,,1,,,,1,19.30
 Azeez Al-Shaair,2562462,LB,HOU,@MIN,9,1,,2,,,,,,,,,,,,,,2,17.10
-Ernest Jones,2566229,LB,TEN,GB,10,3,,,,,,,,,,,,,,,,3,16.80
-Robert Spillane,2561596,LB,LV,CAR,7,4,1,1,,,,,,,,,,,,,,4,16.40
+Robert Spillane,2561596,LB,LV,CAR,7,4,1,1,,,,,,,,,,,,,,3,16.40
+Ernest Jones,2566229,LB,TEN,GB,10,2,,,,,,,,,,,,,,,,4,16.20
 Zack Baun,2564664,LB,PHI,@NO,9,4,,,,,,,,,,,,,,,,5,15.90
 Nick Bolton,2566175,LB,KC,@ATL,7,1,,3,,,,,,,,,,,,,,6,15.60
 Brian Burns,2562242,LB,NYG,@CLE,2,1,1,1,,1,,,,,,,,2,,,,7,15.60
@@ -15,30 +15,30 @@ Nick Herbig,2570248,LB,PIT,LAC,3,,2,2,,1,,,,,,,,,,,,12,15.00
 Germaine Pratt,2562702,LB,CIN,WAS,6,3,,,,1,,,,,,,,,,,,14,14.30
 Tremaine Edmunds,2560713,LB,CHI,@IND,3,2,,,1,,,,,,,,,2,,,,15,14.20
 Dorian Williams,2569582,LB,BUF,JAX,8,3,,,,,,,,,,,,,,,,16,13.80
-Troy Andersen,2567235,LB,ATL,KC,7,5,,,,,,,,,,,,,,,,17,13.50
-Zaire Franklin,2561155,LB,IND,CHI,5,10,,,,,,,,,,,,,,,,18,13.50
-Troy Reeder,2563313,LB,LAR,SF,6,4,,1,,,,,,,,,,,,,,19,12.90
-Jahlani Tavai,2562755,LB,NE,@NYJ,6,4,,1,,,,,,,,,,,,,,20,12.90
+Zaire Franklin,2561155,LB,IND,CHI,5,9,,,,,,,,,,,,,,,,17,12.90
+Troy Reeder,2563313,LB,LAR,SF,6,4,,1,,,,,,,,,,,,,,18,12.90
+Jahlani Tavai,2562755,LB,NE,@NYJ,6,4,,1,,,,,,,,,,,,,,19,12.90
+Troy Andersen,2567235,LB,ATL,KC,6,6,,,,,,,,,,,,,,,,20,12.60
 E.J. Speed,2562955,LB,IND,CHI,6,6,,,,,,,,,,,,,,,,21,12.60
 Kyle Van Noy,2543699,LB,BAL,@DAL,2,,2,2,,,,,,,,,,1,,,,22,12.50
 Denzel Perryman,2552310,LB,LAC,@PIT,6,3,,1,,,,,,,,,,,,,,23,12.30
 Kamu Grugier-Hill,2556363,LB,MIN,HOU,2,1,,,1,,,,,,,,,2,,5,,24,12.27
 Dennis Gardeck,2561200,LB,ARI,DET,2,2,,1,1,,,,,,,,,1,,10,,25,12.03
-Bobby Wagner,2532966,LB,WAS,@CIN,8,,,,,,,,,,,,,,,,,26,12.00
-Isaiah McDuffie,2566082,LB,GB,@TEN,6,3,0.5,,,,,,,,,,,,,,,27,11.80
-Eric Kendricks,2552312,LB,DAL,BAL,5,7,,,,,,,,,,,,,,,,28,11.70
-Andrew Van Ginkel,2562768,LB,MIN,HOU,5,1,1,1,,,,,,,,,,,,,,29,11.60
-Preston Smith,2552276,LB,GB,@TEN,3,,2,2,,,,,,,,,,,,,,30,11.50
-Raekwon McMillan,2558070,LB,NE,@NYJ,6,4,,,,,,,,,,,,,,,,31,11.40
-Kingsley Enagbare,2567589,LB,GB,@TEN,1,3,1.5,1,,1,,,,,,,,,,,,32,11.30
-Lavonte David,2532828,LB,TB,DEN,3,5,,,,1,,,,,,,,,,,,33,11.00
-Mack Wilson,2562605,LB,ARI,DET,3,5,1,1,,,,,,,,,,,,,,34,11.00
-Patrick Queen,2563575,LB,PIT,LAC,4,4,,,,,,,,,,,,1,,,,35,10.90
-Jordan Hicks,2552315,LB,CLE,NYG,5,3,,1,,,,,,,,,,,,,,36,10.80
-Quincy Williams,2562954,LB,NYJ,NE,5,3,,1,,,,,,,,,,,,,,37,10.80
-Logan Wilson,2563752,LB,CIN,WAS,6,3,,,,,,,,,,,,,,,,38,10.80
-Josey Jewell,2560763,LB,CAR,@LV,3,2,,,,,,,,,,,,2,,,,39,10.70
-Boye Mafe,2568258,LB,SEA,MIA,3,,1,1,,,,,,,,,,1,,,,40,10.50
+Isaiah McDuffie,2566082,LB,GB,@TEN,6,3,0.5,,,,,,,,,,,,,,,26,11.80
+Eric Kendricks,2552312,LB,DAL,BAL,5,7,,,,,,,,,,,,,,,,27,11.70
+Andrew Van Ginkel,2562768,LB,MIN,HOU,5,1,1,1,,,,,,,,,,,,,,28,11.60
+Preston Smith,2552276,LB,GB,@TEN,3,,2,2,,,,,,,,,,,,,,29,11.50
+Raekwon McMillan,2558070,LB,NE,@NYJ,6,4,,,,,,,,,,,,,,,,30,11.40
+Kingsley Enagbare,2567589,LB,GB,@TEN,1,3,1.5,1,,1,,,,,,,,,,,,31,11.30
+Boye Mafe,2568258,LB,SEA,MIA,3,1,1,1,,,,,,,,,,1,,,,32,11.10
+Bobby Wagner,2532966,LB,WAS,@CIN,7,1,,,,,,,,,,,,,,,,33,11.10
+Lavonte David,2532828,LB,TB,DEN,3,5,,,,1,,,,,,,,,,,,34,11.00
+Mack Wilson,2562605,LB,ARI,DET,3,5,1,1,,,,,,,,,,,,,,35,11.00
+Patrick Queen,2563575,LB,PIT,LAC,4,4,,,,,,,,,,,,1,,,,36,10.90
+Jordan Hicks,2552315,LB,CLE,NYG,5,3,,1,,,,,,,,,,,,,,37,10.80
+Quincy Williams,2562954,LB,NYJ,NE,5,3,,1,,,,,,,,,,,,,,38,10.80
+Logan Wilson,2563752,LB,CIN,WAS,6,3,,,,,,,,,,,,,,,,39,10.80
+Josey Jewell,2560763,LB,CAR,@LV,3,2,,,,,,,,,,,,2,,,,40,10.70
 Jeremiah Owusu-Koramoah,2565983,LB,CLE,NYG,4,5,,1,,,,,,,,,,,,,,41,10.50
 Anfernee Jennings,2564613,LB,NE,@NYJ,4,2,,2,,,,,,,,,,,,,,42,10.20
 Joshua Uche,2564649,LB,NE,@NYJ,4,1,1,1,,,,,,,,,,,,,,43,10.10
@@ -58,14 +58,14 @@ Jordyn Brooks,2565135,LB,MIA,@SEA,3,6,,,,,,,,,,,,,,,,56,8.10
 Bud Dupree,2552289,LB,LAC,@PIT,1,1,,,1,,,,,,,,,1,,,,57,8.10
 T.J. Watt,2558064,LB,PIT,LAC,3,,1,1,,,,,,,,,,,,,,58,8.00
 Nik Bonitto,2567517,LB,DEN,@TB,2,,1,,,,,,,,,,,1,,,,59,7.50
-Quay Walker,2567631,LB,GB,@TEN,3,3,0.5,,,,,,,,,,,,,,,60,7.30
-Demario Davis,2533008,LB,NO,PHI,4,2,,,,,,,,,,,,,,,,61,7.20
-Shaq Thompson,2552447,LB,CAR,@LV,4,2,,,,,,,,,,,,,,,,62,7.20
-Tuli Tuipulotu,2570266,LB,LAC,@PIT,2,2,,2,,,,,,,,,,,,,,63,7.20
-Willie Gay Jr.,2564280,LB,NO,PHI,4,,,,,,1,,,,,,,,,,4,64,7.13
-Jonathon Cooper,2566028,LB,DEN,@TB,2,1,1,1,,,,,,,,,,,,,,65,7.10
-Luke Masterson,2568981,LB,LV,CAR,3,4,,,,,,,,,,,,,,,,66,6.90
-Kyzir White,2560928,LB,ARI,DET,1,9,,,,,,,,,,,,,,,,67,6.90
+Kyzir White,2560928,LB,ARI,DET,1,10,,,,,,,,,,,,,,,,60,7.50
+Quay Walker,2567631,LB,GB,@TEN,3,3,0.5,,,,,,,,,,,,,,,61,7.30
+Demario Davis,2533008,LB,NO,PHI,4,2,,,,,,,,,,,,,,,,62,7.20
+Shaq Thompson,2552447,LB,CAR,@LV,4,2,,,,,,,,,,,,,,,,63,7.20
+Tuli Tuipulotu,2570266,LB,LAC,@PIT,2,2,,2,,,,,,,,,,,,,,64,7.20
+Willie Gay Jr.,2564280,LB,NO,PHI,4,,,,,,1,,,,,,,,,,4,65,7.13
+Jonathon Cooper,2566028,LB,DEN,@TB,2,1,1,1,,,,,,,,,,,,,,66,7.10
+Luke Masterson,2568981,LB,LV,CAR,3,4,,,,,,,,,,,,,,,,67,6.90
 Bobby Okereke,2562416,LB,NYG,@CLE,1,7,0.5,,,,,,,,,,,,,,,68,6.70
 Trenton Simpson,2569564,LB,BAL,@DAL,2,2,,,,,,,,,,,,1,,,,69,6.70
 Zaven Collins,2566421,LB,ARI,DET,3,1,,1,,,,,,,,,,,,,,70,6.60
@@ -116,24 +116,24 @@ Michael Hoecht,2564346,LB,LAR,SF,1,2,,,,,,,,,,,,,,,,114,2.70
 Cody Barton,2562472,LB,DEN,@TB,,4,,,,,,,,,,,,,,,,115,2.40
 Charles Snowden,2566764,LB,LV,CAR,,2,0.5,,,,,,,,,,,,,,,116,2.20
 Joe Andreessen,2573632,LB,BUF,JAX,1,1,,,,,,,,,,,,,,,,117,2.10
-Yaya Diaby,2570344,LB,TB,DEN,1,1,,,,,,,,,,,,,,,,118,2.10
-T.J. Edwards,2562648,LB,CHI,@IND,1,1,,,,,,,,,,,,,,,,119,2.10
-Rashan Gary,2562376,LB,GB,@TEN,1,1,,,,,,,,,,,,,,,,120,2.10
-Joe Giles-Harris,2562591,LB,NE,@NYJ,1,1,,,,,,,,,,,,,,,,121,2.10
-Malik Harrison,2563554,LB,BAL,@DAL,1,1,,,,,,,,,,,,,,,,122,2.10
-Caleb Johnson,2566743,LB,JAX,@BUF,1,1,,,,,,,,,,,,,,,,123,2.10
-Sam Kamara,2566746,LB,CLE,NYG,1,1,,,,,,,,,,,,,,,,124,2.10
-Ben Niemann,2561383,LB,DET,@ARI,1,1,,,,,,,,,,,,,,,,125,2.10
-Chazz Surratt,2566322,LB,NYJ,NE,1,1,,,,,,,,,,,,,,,,126,2.10
-Josh Sweat,2560889,LB,PHI,@NO,1,1,,,,,,,,,,,,,,,,127,2.10
-Payton Wilson,2572456,LB,PIT,LAC,1,1,,,,,,,,,,,,,,,,128,2.10
-Derrick Barnes,2566055,LB,DET,@ARI,1,,,,,,,,,,,,,,,,,129,1.50
-Krys Barnes,2563971,LB,ARI,DET,1,,,,,,,,,,,,,,,,,130,1.50
-Nick Bellore,2495262,LB,WAS,@CIN,1,,,,,,,,,,,,,,,,,131,1.50
-Devin Bush,2562243,LB,CLE,NYG,1,,,,,,,,,,,,,,,,,132,1.50
-Lorenzo Carter,2561015,LB,ATL,KC,1,,,,,,,,,,,,,,,,,133,1.50
-Marcus Davenport,2561037,LB,DET,@ARI,1,,,,,,,,,,,,,,,,,134,1.50
-Troy Dye,2564535,LB,LAC,@PIT,1,,,,,,,,,,,,,,,,,135,1.50
+Nick Bellore,2495262,LB,WAS,@CIN,1,1,,,,,,,,,,,,,,,,118,2.10
+Yaya Diaby,2570344,LB,TB,DEN,1,1,,,,,,,,,,,,,,,,119,2.10
+Troy Dye,2564535,LB,LAC,@PIT,1,1,,,,,,,,,,,,,,,,120,2.10
+T.J. Edwards,2562648,LB,CHI,@IND,1,1,,,,,,,,,,,,,,,,121,2.10
+Rashan Gary,2562376,LB,GB,@TEN,1,1,,,,,,,,,,,,,,,,122,2.10
+Joe Giles-Harris,2562591,LB,NE,@NYJ,1,1,,,,,,,,,,,,,,,,123,2.10
+Malik Harrison,2563554,LB,BAL,@DAL,1,1,,,,,,,,,,,,,,,,124,2.10
+Caleb Johnson,2566743,LB,JAX,@BUF,1,1,,,,,,,,,,,,,,,,125,2.10
+Sam Kamara,2566746,LB,CLE,NYG,1,1,,,,,,,,,,,,,,,,126,2.10
+Ben Niemann,2561383,LB,DET,@ARI,1,1,,,,,,,,,,,,,,,,127,2.10
+Chazz Surratt,2566322,LB,NYJ,NE,1,1,,,,,,,,,,,,,,,,128,2.10
+Josh Sweat,2560889,LB,PHI,@NO,1,1,,,,,,,,,,,,,,,,129,2.10
+Payton Wilson,2572456,LB,PIT,LAC,1,1,,,,,,,,,,,,,,,,130,2.10
+Derrick Barnes,2566055,LB,DET,@ARI,1,,,,,,,,,,,,,,,,,131,1.50
+Krys Barnes,2563971,LB,ARI,DET,1,,,,,,,,,,,,,,,,,132,1.50
+Devin Bush,2562243,LB,CLE,NYG,1,,,,,,,,,,,,,,,,,133,1.50
+Lorenzo Carter,2561015,LB,ATL,KC,1,,,,,,,,,,,,,,,,,134,1.50
+Marcus Davenport,2561037,LB,DET,@ARI,1,,,,,,,,,,,,,,,,,135,1.50
 Arnold Ebiketie,2567238,LB,ATL,KC,1,,,,,,,,,,,,,,,,,136,1.50
 Sam Eguavoen,2562038,LB,NYJ,NE,1,,,,,,,,,,,,,,,,,137,1.50
 Jack Gibbens,2568810,LB,TEN,GB,1,,,,,,,,,,,,,,,,,138,1.50
@@ -302,10 +302,10 @@ Isaiah Land,2570900,LB,IND,CHI,,,,,,,,,,,,,,,,,,300,0.00
 Nate Landman,2568519,LB,ATL,KC,,,,,,,,,,,,,,,,,,301,0.00
 Shane Lee,2573797,LB,FA,Bye,,,,,,,,,,,,,,,,,,302,0.00
 Shaquille Leonard,2560789,LB,FA,Bye,,,,,,,,,,,,,,,,,,303,0.00
-Eku Leota,2570789,LB,CAR,@LV,,,,,,,,,,,,,,,,,,304,0.00
+Eku Leota,2570789,LB,FA,Bye,,,,,,,,,,,,,,,,,,304,0.00
 Terrell Lewis,2564370,LB,FA,Bye,,,,,,,,,,,,,,,,,,305,0.00
 Jesse Luketa,2568111,LB,ARI,DET,,,,,,,,,,,,,,,,,,306,0.00
-Blake Lynch,2564562,LB,FA,Bye,,,,,,,,,,,,,,,,,,307,0.00
+Blake Lynch,2564562,LB,LAC,@PIT,,,,,,,,,,,,,,,,,,307,0.00
 Tyreek Maddox-Williams,2569209,LB,FA,Bye,,,,,,,,,,,,,,,,,,308,0.00
 Jordan Magee,2572573,LB,WAS,@CIN,,,,,,,,,,,,,,,,,,309,0.00
 Donovan Manuel,2573307,LB,FA,Bye,,,,,,,,,,,,,,,,,,310,0.00
@@ -376,8 +376,8 @@ Noah Sewell,2569633,LB,CHI,@IND,,,,,,,,,,,,,,,,,,374,0.00
 Shayne Simon,2573866,LB,FA,Bye,,,,,,,,,,,,,,,,,,375,0.00
 Jackson Sirmon,2572717,LB,NYJ,NE,,,,,,,,,,,,,,,,,,376,0.00
 Andre Smith,2560875,LB,FA,Bye,,,,,,,,,,,,,,,,,,377,0.00
-Brandon Smith,2567358,LB,FA,Bye,,,,,,,,,,,,,,,,,,378,0.00
-Elerson G. Smith,2566373,LB,FA,Bye,,,,,,,,,,,,,,,,,,379,0.00
+Brandon Smith,2567358,LB,NYJ,NE,,,,,,,,,,,,,,,,,,378,0.00
+Elerson G. Smith,2566373,LB,CLE,NYG,,,,,,,,,,,,,,,,,,379,0.00
 Jordan Smith,2566169,LB,FA,Bye,,,,,,,,,,,,,,,,,,380,0.00
 Mike Smith Jr.,2573897,LB,FA,Bye,,,,,,,,,,,,,,,,,,381,0.00
 Tyreke Smith,2568276,LB,SEA,MIA,,,,,,,,,,,,,,,,,,382,0.00
@@ -400,7 +400,7 @@ Ezekiel Vandenburgh,2571171,LB,FA,Bye,,,,,,,,,,,,,,,,,,398,0.00
 Ben VanSumeren,2570629,LB,PHI,@NO,,,,,,,,,,,,,,,,,,399,0.00
 Zach VanValkenburg,2569002,LB,LAR,SF,,,,,,,,,,,,,,,,,,400,0.00
 Byron Vaughns,2573067,LB,FA,Bye,,,,,,,,,,,,,,,,,,401,0.00
-Luiji Vilain,2569068,LB,CLE,NYG,,,,,,,,,,,,,,,,,,402,0.00
+Luiji Vilain,2569068,LB,FA,Bye,,,,,,,,,,,,,,,,,,402,0.00
 Garret Wallow,2566139,LB,TEN,GB,,,,,,,,,,,,,,,,,,403,0.00
 Luquay Washington,2572853,LB,FA,Bye,,,,,,,,,,,,,,,,,,404,0.00
 Nathaniel Watson,2571958,LB,CLE,NYG,,,,,,,,,,,,,,,,,,405,0.00

@@ -2,7 +2,7 @@ PlayerName,PlayerId,Pos,Team,PlayerOpponent,PassingYDS,PassingTD,PassingInt,Rush
 Nate Adkins,2570930,TE,DEN,@CIN,,,,,,,,,,,,,0.00,1,0.00,0.0
 Jordan Akins,2560951,TE,CLE,MIA,,,,,,,,,,,,,1.31,2,0.00,-1.31
 Mo Alie-Cox,2558832,TE,IND,@NYG,,,,,,,,,,,,,1.26,3,0.00,-1.26
-Erick All,2571916,TE,CIN,DEN,,,,,,,,,,,,,0.00,4,0.00,0.0
+Erick All,2571916,TE,CIN,DEN,,,,,,,,,,,,,2.10,4,0.00,-2.1
 Davis Allen,2570017,TE,LAR,ARI,,,,,,,,,,,,,1.57,5,0.00,-1.57
 Mark Andrews,2560957,TE,BAL,@HOU,,,,,,,,,,,,,8.10,6,0.00,-8.1
 AJ Barner,2572513,TE,SEA,@CHI,,,,,,,,,,,,,0.63,7,0.00,-0.63
@@ -10,7 +10,7 @@ Brenden Bates,2572953,TE,NYJ,@BUF,,,,,,,,,,,,,0.00,8,0.00,0.0
 John Bates,2566580,TE,WAS,ATL,,,,,,,,,,,,,0.43,9,0.00,-0.43
 Jaheim Bell,2572288,TE,NE,LAC,,,,,,,,,,,,,0.50,10,0.00,-0.5
 Daniel Bellinger,2567985,TE,NYG,IND,,,,,,,,,,,,,1.50,11,0.00,-1.5
-Luke Benson,2573782,TE,LAC,@NE,,,,,,,,,,,,,0.00,12,0.00,0.0
+Luke Benson,2573782,TE,FA,Bye,,,,,,,,,,,,,,12,0.00,
 Brock Bowers,2572219,TE,LV,@NO,,,,,,,,,,,,,8.10,13,0.00,-8.1
 Shawn Bowman,2573689,TE,JAX,TEN,,,,,,,,,,,,,0.00,14,0.00,0.0
 Pharaoh Brown,2559018,TE,SEA,@CHI,,,,,,,,,,,,,0.99,15,0.00,-0.99
@@ -141,7 +141,7 @@ Kyle Pitts,2565830,TE,ATL,@WAS,,,,,,,,,,,,,8.61,139,0.00,-8.61
 Mason Pline,2573542,TE,SF,DET,,,,,,,,,,,,,0.00,140,0.00,0.0
 Gerrit Prince,2568960,TE,FA,Bye,,,,,,,,,,,,,,141,0.00,
 MyCole Pruitt,2552401,TE,PIT,KC,,,,,,,,,,,,,0.94,142,0.00,-0.94
-Teagan Quitoriano,2567691,TE,FA,Bye,,,,,,,,,,,,,,143,0.00,
+Teagan Quitoriano,2567691,TE,CHI,SEA,,,,,,,,,,,,,0.00,143,0.00,0.0
 Kevin Rader,2561264,TE,FA,Bye,,,,,,,,,,,,,,144,0.00,
 Tip Reiman,2572426,TE,ARI,@LAR,,,,,,,,,,,,,0.51,145,0.00,-0.51
 Isaac Rex,2573142,TE,FA,Bye,,,,,,,,,,,,,,146,0.00,
@@ -167,20 +167,20 @@ Stone Smartt,2569227,TE,LAC,@NE,,,,,,,,,,,,,0.60,165,0.00,-0.6
 Irv Smith,2562738,TE,HOU,BAL,,,,,,,,,,,,,0.00,166,0.00,0.0
 Jonnu Smith,2558207,TE,MIA,@CLE,,,,,,,,,,,,,3.55,167,0.00,-3.55
 Durham Smythe,2560880,TE,MIA,@CLE,,,,,,,,,,,,,1.05,168,0.00,-1.05
-Matt Sokol,2562980,TE,PIT,KC,,,,,,,,,,,,,0.00,169,0.00,0.0
+Matt Sokol,2562980,TE,FA,Bye,,,,,,,,,,,,,,169,0.00,
 Brevyn Spann-Ford,2573064,TE,DAL,@PHI,,,,,,,,,,,,,0.00,170,0.00,0.0
 Geor'Quarius Spivey,2573887,TE,FA,Bye,,,,,,,,,,,,,,171,0.00,
 John Stephens Jr.,2570894,TE,DAL,@PHI,,,,,,,,,,,,,0.00,172,0.00,0.0
 Steven Stilianos,2573485,TE,FA,Bye,,,,,,,,,,,,,,173,0.00,
 Austin Stogner,2572893,TE,FA,Bye,,,,,,,,,,,,,,174,0.00,
-Jack Stoll,2567061,TE,PHI,DAL,,,,,,,,,,,,,0.00,175,0.00,0.0
+Jack Stoll,2567061,TE,PHI,DAL,,,,,,,,,,,,,0.45,175,0.00,-0.45
 Cade Stover,2572105,TE,HOU,BAL,,,,,,,,,,,,,1.88,176,0.00,-1.88
 Brenton Strange,2569912,TE,JAX,TEN,,,,,,,,,,,,,1.61,177,0.00,-1.61
 Stephen Sullivan,2565192,TE,FA,Bye,,,,,,,,,,,,,,178,0.00,
 Sage Surratt,2566911,TE,FA,Bye,,,,,,,,,,,,,,179,0.00,
 Geoff Swaim,2553454,TE,CLE,MIA,,,,,,,,,,,,,0.00,180,0.00,0.0
 Tommy Sweeney,2562750,TE,FA,Bye,,,,,,,,,,,,,,181,0.00,
-Messiah Swinson,2572675,TE,CAR,@TB,,,,,,,,,,,,,0.00,182,0.00,0.0
+Messiah Swinson,2572675,TE,FA,Bye,,,,,,,,,,,,,,182,0.00,
 Tanner Taula,2571587,TE,TB,CAR,,,,,,,,,,,,,0.00,183,0.00,0.0
 Ian Thomas,2560894,TE,CAR,@TB,,,,,,,,,,,,,0.50,184,0.00,-0.5
 Jordan Thomas,2560896,TE,FA,Bye,,,,,,,,,,,,,,185,0.00,
@@ -207,7 +207,7 @@ Mitchell Wilcox,2563749,TE,NE,LAC,,,,,,,,,,,,,0.00,205,0.00,0.0
 Jared Wiley,2572183,TE,KC,@PIT,,,,,,,,,,,,,1.52,206,0.00,-1.52
 Rod Williams,2569366,TE,PIT,KC,,,,,,,,,,,,,0.00,207,0.00,0.0
 Brayden Willis,2570293,TE,SF,DET,,,,,,,,,,,,,0.00,208,0.00,0.0
-Joel Wilson,2571724,TE,FA,Bye,,,,,,,,,,,,,,209,0.00,
+Joel Wilson,2571724,TE,NYG,IND,,,,,,,,,,,,,0.00,209,0.00,0.0
 Charlie Woerner,2565129,TE,ATL,@WAS,,,,,,,,,,,,,0.71,210,0.00,-0.71
 Jelani Woods,2567724,TE,IND,@NYG,,,,,,,,,,,,,0.00,211,0.00,0.0
 Brock Wright,2567221,TE,DET,@SF,,,,,,,,,,,,,0.00,212,0.00,0.0
