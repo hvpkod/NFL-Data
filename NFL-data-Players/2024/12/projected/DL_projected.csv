@@ -70,7 +70,7 @@ Andre Carter,2573190,DL,FA,Bye,,,,,,,,,,,,,,,,,,,68,0.00,
 DeWayne Carter,2571853,DL,BUF,Bye,,,,,,,,,,,,,,,,,,,69,0.00,
 Jalen Carter,2570203,DL,PHI,@LAR,,,,,,,,,,,,,,,,,,5.20,70,0.00,-5.2
 T.J. Carter,2564898,DL,FA,Bye,,,,,,,,,,,,,,,,,,,71,0.00,
-Zachary Carter,2567445,DL,CIN,Bye,,,,,,,,,,,,,,,,,,,72,0.00,
+Zachary Carter,2567445,DL,FA,Bye,,,,,,,,,,,,,,,,,,,72,0.00,
 Nelson Ceaser,2572753,DL,FA,Bye,,,,,,,,,,,,,,,,,,,73,0.00,
 Elijah Chatman,2573820,DL,NYG,TB,,,,,,,,,,,,,,,,,,0.48,74,0.00,-0.48
 Jerrod Clark,2571288,DL,FA,Bye,,,,,,,,,,,,,,,,,,,75,0.00,
@@ -84,7 +84,7 @@ L.J. Collier,2562248,DL,ARI,@SEA,,,,,,,,,,,,,,,,,,1.27,82,0.00,-1.27
 Maliek Collins,2555400,DL,SF,@GB,,,,,,,,,,,,,,,,,,4.27,83,0.00,-4.27
 John Cominsky,2562249,DL,DET,@IND,,,,,,,,,,,,,,,,,,0.00,84,0.00,0.0
 Robert Cooper,2571387,DL,FA,Bye,,,,,,,,,,,,,,,,,,,85,0.00,
-Byron Cowart,2562392,DL,CHI,MIN,,,,,,,,,,,,,,,,,,0.00,86,0.00,0.0
+Byron Cowart,2562392,DL,CHI,MIN,,,,,,,,,,,,,,,,,,1.20,86,0.00,-1.2
 Maxx Crosby,2562439,DL,LV,DEN,,,,,,,,,,,,,,,,,,9.90,87,0.00,-9.9
 Jaden Crumedy,2571886,DL,CAR,KC,,,,,,,,,,,,,,,,,,0.00,88,0.00,0.0
 Judge Culpepper,2573554,DL,FA,Bye,,,,,,,,,,,,,,,,,,,89,0.00,
@@ -173,10 +173,10 @@ Charles Harris,2558001,DL,CAR,KC,,,,,,,,,,,,,,,,,,0.00,171,0.00,0.0
 Demone Harris,2561209,DL,ATL,Bye,,,,,,,,,,,,,,,,,,,172,0.00,
 Jalen Harris,2570443,DL,FA,Bye,,,,,,,,,,,,,,,,,,,173,0.00,
 Jonathan Harris,2562945,DL,MIA,NE,,,,,,,,,,,,,,,,,,0.00,174,0.00,0.0
-Marcus Harris,2572090,DL,HOU,TEN,,,,,,,,,,,,,,,,,,0.00,175,0.00,0.0
+Marcus Harris,2572090,DL,FA,Bye,,,,,,,,,,,,,,,,,,,175,0.00,
 Shelby Harris,2549926,DL,CLE,PIT,,,,,,,,,,,,,,,,,,1.04,176,0.00,-1.04
 Zach Harrison,2569555,DL,ATL,Bye,,,,,,,,,,,,,,,,,,,177,0.00,
-Marcus Haynes,2570909,DL,FA,Bye,,,,,,,,,,,,,,,,,,,178,0.00,
+Marcus Haynes,2570909,DL,CLE,PIT,,,,,,,,,,,,,,,,,,0.00,178,0.00,0.0
 Bruce Hector,2561338,DL,NYJ,Bye,,,,,,,,,,,,,,,,,,,179,0.00,
 Jack Heflin,2566929,DL,FA,Bye,,,,,,,,,,,,,,,,,,,180,0.00,
 Trey Hendrickson,2557943,DL,CIN,Bye,,,,,,,,,,,,,,,,,,,181,0.00,
@@ -247,10 +247,10 @@ Khalid Kareem,2563734,DL,ATL,Bye,,,,,,,,,,,,,,,,,,,245,0.00,
 George Karlaftis,2567796,DL,KC,@CAR,,,,,,,,,,,,,,,,,,0.00,246,0.00,0.0
 Mario Kendricks,2573849,DL,FA,Bye,,,,,,,,,,,,,,,,,,,247,0.00,
 Javon Kinlaw,2565117,DL,NYJ,Bye,,,,,,,,,,,,,,,,,,,248,0.00,
-Marshawn Kneeland,2571976,DL,DAL,@WAS,,,,,,,,,,,,,,,,,,0.89,249,0.00,-0.89
+Marshawn Kneeland,2571976,DL,DAL,@WAS,,,,,,,,,,,,,,,,,,2.89,249,0.00,-2.89
 Malcolm Koonce,2566262,DL,LV,DEN,,,,,,,,,,,,,,,,,,0.00,250,0.00,0.0
 Tanoh Kpassagnon,2558185,DL,NO,Bye,,,,,,,,,,,,,,,,,,,251,0.00,
-Jamree Kromah,2572962,DL,NE,@MIA,,,,,,,,,,,,,,,,,,0.00,252,0.00,0.0
+Jamree Kromah,2572962,DL,FA,Bye,,,,,,,,,,,,,,,,,,,252,0.00,
 Tyler Lacy,2569897,DL,JAX,Bye,,,,,,,,,,,,,,,,,,,253,0.00,
 Niko Lalos,2564745,DL,NO,Bye,,,,,,,,,,,,,,,,,,,254,0.00,
 Laiatu Latu,2572123,DL,IND,DET,,,,,,,,,,,,,,,,,,3.70,255,0.00,-3.7
@@ -289,7 +289,7 @@ Phidarian Mathis,2568339,DL,WAS,DAL,,,,,,,,,,,,,,,,,,0.84,287,0.00,-0.84
 Scott Matlock,2570284,DL,LAC,BAL,,,,,,,,,,,,,,,,,,0.87,288,0.00,-0.87
 Brandon Matterson,2573094,DL,FA,Bye,,,,,,,,,,,,,,,,,,,289,0.00,
 Devonnsha Maxwell,2570807,DL,FA,Bye,,,,,,,,,,,,,,,,,,,290,0.00,
-Marquan McCall,2568561,DL,FA,Bye,,,,,,,,,,,,,,,,,,,291,0.00,
+Marquan McCall,2568561,DL,LV,DEN,,,,,,,,,,,,,,,,,,0.00,291,0.00,0.0
 Christian McCarroll,2573899,DL,FA,Bye,,,,,,,,,,,,,,,,,,,292,0.00,
 Will McDonald IV,2570191,DL,NYJ,Bye,,,,,,,,,,,,,,,,,,,293,0.00,
 T.Y. McGill,2553911,DL,SF,@GB,,,,,,,,,,,,,,,,,,0.00,294,0.00,0.0
@@ -303,7 +303,7 @@ Jordan Miller,2573097,DL,DEN,@LV,,,,,,,,,,,,,,,,,,0.00,301,0.00,0.0
 John Morgan III,2573343,DL,FA,Bye,,,,,,,,,,,,,,,,,,,302,0.00,
 Mike Morris,2570317,DL,SEA,ARI,,,,,,,,,,,,,,,,,,2.71,303,0.00,-2.71
 Zach Morton,2570969,DL,FA,Bye,,,,,,,,,,,,,,,,,,,304,0.00,
-Al-Quadin Muhammad,2558131,DL,FA,Bye,,,,,,,,,,,,,,,,,,,305,0.00,
+Al-Quadin Muhammad,2558131,DL,DET,@IND,,,,,,,,,,,,,,,,,,0.00,305,0.00,0.0
 Larrell Murchison,2564055,DL,LAR,PHI,,,,,,,,,,,,,,,,,,0.57,306,0.00,-0.57
 Byron Murphy II,2572531,DL,SEA,ARI,,,,,,,,,,,,,,,,,,3.21,307,0.00,-3.21
 Gabriel Murphy,2573313,DL,MIN,@CHI,,,,,,,,,,,,,,,,,,1.07,308,0.00,-1.07
@@ -347,7 +347,7 @@ Kwity Paye,2565612,DL,IND,DET,,,,,,,,,,,,,,,,,,5.49,345,0.00,-5.49
 Daron Payne,2560834,DL,WAS,DAL,,,,,,,,,,,,,,,,,,6.75,346,0.00,-6.75
 Leonard Payne,2573761,DL,FA,Bye,,,,,,,,,,,,,,,,,,,347,0.00,
 Pheldarius Payne,2573163,DL,FA,Bye,,,,,,,,,,,,,,,,,,,348,0.00,
-Jayden Peevy,2568834,DL,CAR,KC,,,,,,,,,,,,,,,,,,0.00,349,0.00,0.0
+Jayden Peevy,2568834,DL,FA,Bye,,,,,,,,,,,,,,,,,,,349,0.00,
 Kyle Peko,2556646,DL,DET,@IND,,,,,,,,,,,,,,,,,,0.00,350,0.00,0.0
 John Penisini,2563950,DL,FA,Bye,,,,,,,,,,,,,,,,,,,351,0.00,
 Mike Pennel,2550242,DL,KC,@CAR,,,,,,,,,,,,,,,,,,0.00,352,0.00,0.0
@@ -405,7 +405,7 @@ Zach Sieler,2561129,DL,MIA,NE,,,,,,,,,,,,,,,,,,6.81,403,0.00,-6.81
 Nesta Jade Silvera,2570035,DL,LV,DEN,,,,,,,,,,,,,,,,,,0.00,404,0.00,0.0
 Jeffery Simmons,2562733,DL,TEN,@HOU,,,,,,,,,,,,,,,,,,5.75,405,0.00,-5.75
 Jacob Slade,2571071,DL,PIT,@CLE,,,,,,,,,,,,,,,,,,0.00,406,0.00,0.0
-Tedarrell Slaton,2566094,DL,GB,SF,,,,,,,,,,,,,,,,,,0.75,407,0.00,-0.75
+Tedarrell Slaton,2566094,DL,GB,SF,,,,,,,,,,,,,,,,,,1.49,407,0.00,-1.49
 Tanzel Smart,2558199,DL,FA,Bye,,,,,,,,,,,,,,,,,,,408,0.00,
 Chris Smith,2570960,DL,DET,@IND,,,,,,,,,,,,,,,,,,0.00,409,0.00,0.0
 Maason Smith,2572159,DL,JAX,Bye,,,,,,,,,,,,,,,,,,,410,0.00,
@@ -420,7 +420,7 @@ Marquiss Spencer,2566037,DL,FA,Bye,,,,,,,,,,,,,,,,,,,418,0.00,
 Taylor Stallworth,2560882,DL,FA,Bye,,,,,,,,,,,,,,,,,,,419,0.00,
 Gable Steveson,2573862,DL,FA,Bye,,,,,,,,,,,,,,,,,,,420,0.00,
 Grover Stewart,2558766,DL,IND,DET,,,,,,,,,,,,,,,,,,5.14,421,0.00,-5.14
-Ben Stille,2569041,DL,FA,Bye,,,,,,,,,,,,,,,,,,,422,0.00,
+Ben Stille,2569041,DL,ARI,@SEA,,,,,,,,,,,,,,,,,,0.00,422,0.00,0.0
 Dante Stills,2570218,DL,ARI,@SEA,,,,,,,,,,,,,,,,,,3.05,423,0.00,-3.05
 Ron Stone Jr.,2573247,DL,FA,Bye,,,,,,,,,,,,,,,,,,,424,0.00,
 Kentavius Street,2560885,DL,ATL,Bye,,,,,,,,,,,,,,,,,,,425,0.00,
@@ -473,7 +473,7 @@ Keion White,2570107,DL,NE,@MIA,,,,,,,,,,,,,,,,,,4.11,471,0.00,-4.11
 Christian Wilkins,2562782,DL,LV,DEN,,,,,,,,,,,,,,,,,,7.66,472,0.00,-7.66
 Chris Williams,2564154,DL,CHI,MIN,,,,,,,,,,,,,,,,,,0.00,473,0.00,0.0
 DeShawn Williams,2553623,DL,CAR,KC,,,,,,,,,,,,,,,,,,0.00,474,0.00,0.0
-Jonah Williams,2564403,DL,MIN,@CHI,,,,,,,,,,,,,,,,,,0.00,475,0.00,0.0
+Jonah Williams,2564403,DL,LAR,PHI,,,,,,,,,,,,,,,,,,0.99,475,0.00,-0.99
 Leonard Williams,2552486,DL,SEA,ARI,,,,,,,,,,,,,,,,,,7.03,476,0.00,-7.03
 Milton Williams,2566418,DL,PHI,@LAR,,,,,,,,,,,,,,,,,,3.38,477,0.00,-3.38
 Nick Williams,2541479,DL,FA,Bye,,,,,,,,,,,,,,,,,,,478,0.00,
@@ -485,7 +485,7 @@ Tyree Wilson,2570050,DL,LV,DEN,,,,,,,,,,,,,,,,,,4.34,483,0.00,-4.34
 Mekhi Wingo,2572024,DL,DET,@IND,,,,,,,,,,,,,,,,,,0.00,484,0.00,0.0
 Deatrich Wise,2558000,DL,NE,@MIA,,,,,,,,,,,,,,,,,,4.75,485,0.00,-4.75
 Colby Wooden,2569783,DL,GB,SF,,,,,,,,,,,,,,,,,,0.00,486,0.00,0.0
-Alex Wright,2567484,DL,CLE,PIT,,,,,,,,,,,,,,,,,,0.86,487,0.00,-0.86
+Alex Wright,2567484,DL,CLE,PIT,,,,,,,,,,,,,,,,,,0.00,487,0.00,0.0
 Devonte Wyatt,2567640,DL,GB,SF,,,,,,,,,,,,,,,,,,3.93,488,0.00,-3.93
 Byron Young,2570053,DL,PHI,@LAR,,,,,,,,,,,,,,,,,,0.00,489,0.00,0.0
 Cameron Young,2570338,DL,SEA,ARI,,,,,,,,,,,,,,,,,,0.00,490,0.00,0.0
