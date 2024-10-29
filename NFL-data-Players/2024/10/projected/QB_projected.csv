@@ -6,13 +6,13 @@ Zack Annexstad,2573548,QB,FA,Bye,,,,,,,,,,,,,,4,0.00,
 Tyson Bagent,2570467,QB,CHI,NE,,,,,,,,,,,,,0.00,5,0.00,0.0
 Casey Bauman,2573779,QB,FA,Bye,,,,,,,,,,,,,,6,0.00,
 Jason Bean,2573169,QB,IND,BUF,,,,,,,,,,,,,0.00,7,0.00,0.0
-C.J. Beathard,2557922,QB,FA,Bye,,,,,,,,,,,,,,8,0.00,
+C.J. Beathard,2557922,QB,MIA,@LAR,,,,,,,,,,,,,0.00,8,0.00,0.0
 Stetson Bennett,2569939,QB,LAR,MIA,,,,,,,,,,,,,0.00,9,0.00,0.0
 Ian Book,2566352,QB,FA,Bye,,,,,,,,,,,,,,10,0.00,
-Tim Boyle,2561187,QB,MIA,@LAR,,,,,,,,,,,,,0.00,11,0.00,0.0
+Tim Boyle,2561187,QB,FA,Bye,,,,,,,,,,,,,,11,0.00,
 Carter Bradley,2573208,QB,LV,Bye,,,,,,,,,,,,,,12,0.00,
 Jacoby Brissett,2555261,QB,NE,@CHI,,,,,,,,,,,,,0.00,13,0.00,0.0
-Anthony Brown,2568363,QB,FA,Bye,,,,,,,,,,,,,,14,0.00,
+Anthony Brown,2568363,QB,ARI,NYJ,,,,,,,,,,,,,0.00,14,0.00,0.0
 Jake Browning,2562634,QB,CIN,@BAL,,,,,,,,,,,,,0.00,15,0.00,0.0
 Ben Bryant,2573882,QB,FA,Bye,,,,,,,,,,,,,,16,0.00,
 Shane Buechele,2566983,QB,BUF,@IND,,,,,,,,,,,,,0.00,17,0.00,0.0
@@ -34,7 +34,7 @@ Max Duggan,2570278,QB,FA,Bye,,,,,,,,,,,,,,32,0.00,
 Jacob Eason,2564115,QB,FA,Bye,,,,,,,,,,,,,,33,0.00,
 Sam Ehlinger,2566142,QB,IND,BUF,,,,,,,,,,,,,0.00,34,0.00,0.0
 Justin Fields,2565920,QB,PIT,@WAS,,,,,,,,,,,,,0.00,35,0.00,0.0
-Joe Flacco,382,QB,IND,BUF,,,,,,,,,,,,,0.00,36,0.00,0.0
+Joe Flacco,382,QB,IND,BUF,,,,,,,,,,,,,13.15,36,0.00,-13.15
 Jake Fromm,2563608,QB,DET,@HOU,,,,,,,,,,,,,0.00,37,0.00,0.0
 Jimmy Garoppolo,2543801,QB,LAR,MIA,,,,,,,,,,,,,0.00,38,0.00,0.0
 Jared Goff,2555334,QB,DET,@HOU,,,,,,,,,,,,,12.94,39,0.00,-12.94
@@ -97,7 +97,7 @@ Dak Prescott,2555260,QB,DAL,PHI,,,,,,,,,,,,,17.09,95,0.00,-17.09
 Brock Purdy,2568216,QB,SF,@TB,,,,,,,,,,,,,16.40,96,0.00,-16.4
 Spencer Rattler,2572327,QB,NO,ATL,,,,,,,,,,,,,0.00,97,0.00,0.0
 Austin Reed,2572971,QB,CHI,NE,,,,,,,,,,,,,0.00,98,0.00,0.0
-Anthony Richardson,2569864,QB,IND,BUF,,,,,,,,,,,,,15.43,99,0.00,-15.43
+Anthony Richardson,2569864,QB,IND,BUF,,,,,,,,,,,,,0.00,99,0.00,0.0
 Desmond Ridder,2567256,QB,LV,Bye,,,,,,,,,,,,,,100,0.00,
 Aaron Rodgers,2506363,QB,NYJ,@ARI,,,,,,,,,,,,,15.09,101,0.00,-15.09
 Nathan Rourke,2569885,QB,FA,Bye,,,,,,,,,,,,,,102,0.00,

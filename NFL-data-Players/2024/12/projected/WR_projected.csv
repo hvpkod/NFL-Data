@@ -24,12 +24,12 @@ Odell Beckham Jr.,2543496,WR,MIA,NE,,,,,,,,,,,,,4.85,22,0.00,-4.85
 David Bell,2567460,WR,CLE,PIT,,,,,,,,,,,,,0.00,23,0.00,0.0
 Ronnie Bell,2570290,WR,SF,@GB,,,,,,,,,,,,,0.47,24,0.00,-0.47
 Braxton Berrios,2560975,WR,MIA,NE,,,,,,,,,,,,,0.42,25,0.00,-0.42
-Tarik Black,2565594,WR,FA,Bye,,,,,,,,,,,,,,26,0.00,
+Tarik Black,2565594,WR,MIA,NE,,,,,,,,,,,,,0.00,26,0.00,0.0
 Chris Blair,2565588,WR,ATL,Bye,,,,,,,,,,,,,,27,0.00,
 Jake Bobo,2571378,WR,SEA,ARI,,,,,,,,,,,,,2.17,28,0.00,-2.17
 Kendrick Bourne,2558914,WR,NE,@MIA,,,,,,,,,,,,,2.69,29,0.00,-2.69
 Kayshon Boutte,2570092,WR,NE,@MIA,,,,,,,,,,,,,5.47,30,0.00,-5.47
-Tyler Boyd,2555466,WR,TEN,@HOU,,,,,,,,,,,,,4.85,31,0.00,-4.85
+Tyler Boyd,2555466,WR,TEN,@HOU,,,,,,,,,,,,,6.01,31,0.00,-6.01
 Miles Boykin,2562631,WR,SEA,ARI,,,,,,,,,,,,,0.00,32,0.00,0.0
 Jalen Brooks,2569696,WR,DAL,@WAS,,,,,,,,,,,,,2.56,33,0.00,-2.56
 Phillip Brooks,2572814,WR,FA,Bye,,,,,,,,,,,,,,34,0.00,
@@ -53,7 +53,7 @@ Deon Cain,2560987,WR,FA,Bye,,,,,,,,,,,,,,51,0.00,
 Jalon Calhoun,2573112,WR,FA,Bye,,,,,,,,,,,,,,52,0.00,
 Marquez Callaway,2565310,WR,TB,@NYG,,,,,,,,,,,,,0.00,53,0.00,0.0
 Jalen Camp,2566148,WR,FA,Bye,,,,,,,,,,,,,,54,0.00,
-Parris Campbell,2562495,WR,FA,Bye,,,,,,,,,,,,,,55,0.00,
+Parris Campbell,2562495,WR,PHI,@LAR,,,,,,,,,,,,,0.00,55,0.00,0.0
 DeAndre Carter,2553502,WR,CHI,MIN,,,,,,,,,,,,,1.01,56,0.00,-1.01
 Devin Carter,2573883,WR,FA,Bye,,,,,,,,,,,,,,57,0.00,
 Joshua Cephus,2573193,WR,JAX,Bye,,,,,,,,,,,,,,58,0.00,
@@ -112,7 +112,7 @@ Simi Fehoko,2566004,WR,LAC,BAL,,,,,,,,,,,,,0.76,110,0.00,-0.76
 Ethan Fernea,2568903,WR,FA,Bye,,,,,,,,,,,,,,111,0.00,
 Dez Fitzpatrick,2566109,WR,LAC,BAL,,,,,,,,,,,,,0.00,112,0.00,0.0
 Ryan Flournoy,2571970,WR,DAL,@WAS,,,,,,,,,,,,,0.43,113,0.00,-0.43
-Zay Flowers,2569573,WR,BAL,@LAC,,,,,,,,,,,,,10.82,114,0.00,-10.82
+Zay Flowers,2569573,WR,BAL,@LAC,,,,,,,,,,,,,11.62,114,0.00,-11.62
 Bryce Ford-Wheaton,2570590,WR,NYG,TB,,,,,,,,,,,,,0.00,115,0.00,0.0
 Jeff Foreman,2573214,WR,LV,DEN,,,,,,,,,,,,,0.00,116,0.00,0.0
 Daurice Fountain,2559921,WR,FA,Bye,,,,,,,,,,,,,,117,0.00,
@@ -131,7 +131,7 @@ Lideatrick Griffin,2573630,WR,FA,Bye,,,,,,,,,,,,,,129,0.00,
 Jalen Guyton,2562844,WR,LV,DEN,,,,,,,,,,,,,0.00,130,0.00,0.0
 Justin Hall,2568978,WR,FA,Bye,,,,,,,,,,,,,,131,0.00,
 KJ Hamler,2563890,WR,BUF,Bye,,,,,,,,,,,,,,132,0.00,
-Mecole Hardman,2562580,WR,KC,@CAR,,,,,,,,,,,,,4.64,133,0.00,-4.64
+Mecole Hardman,2562580,WR,KC,@CAR,,,,,,,,,,,,,3.95,133,0.00,-3.95
 DeAngelo Hardy,2572615,WR,FA,Bye,,,,,,,,,,,,,,134,0.00,
 Mike Harley Jr.,2568636,WR,FA,Bye,,,,,,,,,,,,,,135,0.00,
 Kelvin Harmon,2562577,WR,DAL,@WAS,,,,,,,,,,,,,0.00,136,0.00,0.0
@@ -153,14 +153,14 @@ Tyreek Hill,2556214,WR,MIA,NE,,,,,,,,,,,,,16.04,151,0.00,-16.04
 KhaDarel Hodge,2561653,WR,ATL,Bye,,,,,,,,,,,,,,152,0.00,
 Isaiah Hodgins,2563611,WR,NYG,TB,,,,,,,,,,,,,0.00,153,0.00,0.0
 Mack Hollins,2558262,WR,BUF,Bye,,,,,,,,,,,,,,154,0.00,
-DeAndre Hopkins,2540165,WR,TEN,@HOU,,,,,,,,,,,,,6.79,155,0.00,-6.79
-Dennis Houston,2568693,WR,FA,Bye,,,,,,,,,,,,,,156,0.00,
+DeAndre Hopkins,2540165,WR,KC,@CAR,,,,,,,,,,,,,9.46,155,0.00,-9.46
+Dennis Houston,2568693,WR,TB,@NYG,,,,,,,,,,,,,0.00,156,0.00,0.0
 Lil'Jordan Humphrey,2562668,WR,DEN,@LV,,,,,,,,,,,,,4.35,157,0.00,-4.35
 Xavier Hutchinson,2569825,WR,HOU,TEN,,,,,,,,,,,,,4.63,158,0.00,-4.63
 Jalin Hyatt,2570152,WR,NYG,TB,,,,,,,,,,,,,1.14,159,0.00,-1.14
 Andrei Iosivas,2569657,WR,CIN,Bye,,,,,,,,,,,,,,160,0.00,
 Trenton Irwin,2562900,WR,CIN,Bye,,,,,,,,,,,,,,161,0.00,
-Andy Isabella,2562669,WR,FA,Bye,,,,,,,,,,,,,,162,0.00,
+Andy Isabella,2562669,WR,PIT,@CLE,,,,,,,,,,,,,0.00,162,0.00,0.0
 Qadir Ismail,2573857,WR,BAL,@LAC,,,,,,,,,,,,,0.00,163,0.00,0.0
 JaQuae Jackson,2572875,WR,NE,@MIA,,,,,,,,,,,,,0.00,164,0.00,0.0
 Jermaine Jackson,2573376,WR,NO,Bye,,,,,,,,,,,,,,165,0.00,
@@ -199,12 +199,12 @@ Jeshaun Jones,2573298,WR,MIN,@CHI,,,,,,,,,,,,,0.00,197,0.00,0.0
 Julio Jones,2495454,WR,FA,Bye,,,,,,,,,,,,,,198,0.00,
 Latreal Jones,2573578,WR,FA,Bye,,,,,,,,,,,,,,199,0.00,
 Tim Jones,2565624,WR,JAX,Bye,,,,,,,,,,,,,,200,0.00,
-Velus Jones Jr.,2567409,WR,CHI,MIN,,,,,,,,,,,,,0.23,201,0.00,-0.23
+Velus Jones Jr.,2567409,WR,FA,Bye,,,,,,,,,,,,,,201,0.00,
 Zay Jones,2557863,WR,ARI,@SEA,,,,,,,,,,,,,4.58,202,0.00,-4.58
 Tom Kennedy,2563319,WR,DET,@IND,,,,,,,,,,,,,0.00,203,0.00,0.0
 Lawrence Keys,2573650,WR,FA,Bye,,,,,,,,,,,,,,204,0.00,
 Ramel Keyton,2573232,WR,LV,DEN,,,,,,,,,,,,,0.00,205,0.00,0.0
-Mason Kinsey,2565459,WR,TEN,@HOU,,,,,,,,,,,,,0.00,206,0.00,0.0
+Mason Kinsey,2565459,WR,FA,Bye,,,,,,,,,,,,,,206,0.00,
 Christian Kirk,2560781,WR,JAX,Bye,,,,,,,,,,,,,,207,0.00,
 Jontre Kirklin,2569173,WR,FA,Bye,,,,,,,,,,,,,,208,0.00,
 Keith Kirkwood,2561224,WR,BAL,@LAC,,,,,,,,,,,,,0.00,209,0.00,0.0
@@ -218,7 +218,7 @@ Kwamie Lassiter II,2568606,WR,FA,Bye,,,,,,,,,,,,,,216,0.00,
 Allen Lazard,2560787,WR,NYJ,Bye,,,,,,,,,,,,,,217,0.00,
 Peter LeBlanc,2572965,WR,FA,Bye,,,,,,,,,,,,,,218,0.00,
 Xavier Legette,2571889,WR,CAR,KC,,,,,,,,,,,,,7.65,219,0.00,-7.65
-Tyler Lockett,2552430,WR,SEA,ARI,,,,,,,,,,,,,9.08,220,0.00,-9.08
+Tyler Lockett,2552430,WR,SEA,ARI,,,,,,,,,,,,,8.62,220,0.00,-8.62
 Drake London,2567250,WR,ATL,Bye,,,,,,,,,,,,,,221,0.00,
 T.J. Luther,2570599,WR,FA,Bye,,,,,,,,,,,,,,222,0.00,
 Austin Mack,2564760,WR,FA,Bye,,,,,,,,,,,,,,223,0.00,
@@ -234,7 +234,7 @@ Kyric McGowan,2568459,WR,FA,Bye,,,,,,,,,,,,,,232,0.00,
 Isaiah McKenzie,2558129,WR,FA,Bye,,,,,,,,,,,,,,233,0.00,
 Terry McLaurin,2562489,WR,WAS,DAL,,,,,,,,,,,,,11.72,234,0.00,-11.72
 Racey McMath,2566112,WR,FA,Bye,,,,,,,,,,,,,,235,0.00,
-Jalen McMillan,2572552,WR,TB,@NYG,,,,,,,,,,,,,8.52,236,0.00,-8.52
+Jalen McMillan,2572552,WR,TB,@NYG,,,,,,,,,,,,,7.23,236,0.00,-7.23
 Bub Means,2572324,WR,NO,Bye,,,,,,,,,,,,,,237,0.00,
 Bo Melton,2568261,WR,GB,SF,,,,,,,,,,,,,0.00,238,0.00,0.0
 DK Metcalf,2562685,WR,SEA,ARI,,,,,,,,,,,,,12.21,239,0.00,-12.21
@@ -251,7 +251,7 @@ Adonai Mitchell,2572129,WR,IND,DET,,,,,,,,,,,,,4.13,249,0.00,-4.13
 D.J. Montgomery,2562827,WR,IND,DET,,,,,,,,,,,,,0.00,250,0.00,0.0
 Darnell Mooney,2563707,WR,ATL,Bye,,,,,,,,,,,,,,251,0.00,
 Chris Moore,2555209,WR,ARI,@SEA,,,,,,,,,,,,,0.00,252,0.00,0.0
-David Moore,2558856,WR,CAR,KC,,,,,,,,,,,,,0.45,253,0.00,-0.45
+David Moore,2558856,WR,CAR,KC,,,,,,,,,,,,,1.17,253,0.00,-1.17
 DJ Moore,2560813,WR,CHI,MIN,,,,,,,,,,,,,11.52,254,0.00,-11.52
 Elijah Moore,2566385,WR,CLE,PIT,,,,,,,,,,,,,6.60,255,0.00,-6.6
 Rondale Moore,2566433,WR,ATL,Bye,,,,,,,,,,,,,,256,0.00,
@@ -300,7 +300,7 @@ Nikko Remigio,2570692,WR,KC,@CAR,,,,,,,,,,,,,0.00,298,0.00,0.0
 Josh Reynolds,2558194,WR,DEN,@LV,,,,,,,,,,,,,4.75,299,0.00,-4.75
 Brenden Rice,2572480,WR,LAC,BAL,,,,,,,,,,,,,0.55,300,0.00,-0.55
 Rashee Rice,2569921,WR,KC,@CAR,,,,,,,,,,,,,0.00,301,0.00,0.0
-Calvin Ridley,2560854,WR,TEN,@HOU,,,,,,,,,,,,,7.82,302,0.00,-7.82
+Calvin Ridley,2560854,WR,TEN,@HOU,,,,,,,,,,,,,8.97,302,0.00,-8.97
 Marcus Riley,2572711,WR,NYJ,Bye,,,,,,,,,,,,,,303,0.00,
 Allen Robinson,2543509,WR,DET,@IND,,,,,,,,,,,,,0.26,304,0.00,-0.26
 Demarcus Robinson,2555478,WR,LAR,PHI,,,,,,,,,,,,,7.07,305,0.00,-7.07
@@ -313,7 +313,7 @@ Wayne Ruby,2573707,WR,FA,Bye,,,,,,,,,,,,,,311,0.00,
 Sean Ryan,2570413,WR,FA,Bye,,,,,,,,,,,,,,312,0.00,
 Curtis Samuel,2558066,WR,BUF,Bye,,,,,,,,,,,,,,313,0.00,
 Deebo Samuel Sr.,2562721,WR,SF,@GB,,,,,,,,,,,,,11.93,314,0.00,-11.93
-Braylon Sanders,2569038,WR,FA,Bye,,,,,,,,,,,,,,315,0.00,
+Braylon Sanders,2569038,WR,NE,@MIA,,,,,,,,,,,,,0.00,315,0.00,0.0
 Joseph Scates,2573710,WR,FA,Bye,,,,,,,,,,,,,,316,0.00,
 Anthony Schwartz,2565986,WR,MIA,NE,,,,,,,,,,,,,0.00,317,0.00,0.0
 Ty Scott,2570737,WR,FA,Bye,,,,,,,,,,,,,,318,0.00,
@@ -329,7 +329,7 @@ Sterling Shepard,2555295,WR,TB,@NYG,,,,,,,,,,,,,6.21,327,0.00,-6.21
 Trent Sherfield,2561272,WR,MIN,@CHI,,,,,,,,,,,,,1.39,328,0.00,-1.39
 Justin Shorter,2569579,WR,LV,DEN,,,,,,,,,,,,,0.00,329,0.00,0.0
 David Sills,2562732,WR,DEN,@LV,,,,,,,,,,,,,0.00,330,0.00,0.0
-Marcus Simms,2563340,WR,SEA,ARI,,,,,,,,,,,,,0.00,331,0.00,0.0
+Marcus Simms,2563340,WR,FA,Bye,,,,,,,,,,,,,,331,0.00,
 Cam Sims,2561067,WR,FA,Bye,,,,,,,,,,,,,,332,0.00,
 Steven Sims,2563033,WR,HOU,TEN,,,,,,,,,,,,,0.00,333,0.00,0.0
 Ben Skowronek,2566247,WR,PIT,@CLE,,,,,,,,,,,,,0.00,334,0.00,0.0
@@ -364,7 +364,7 @@ Bryan Thompson,2571428,WR,FA,Bye,,,,,,,,,,,,,,362,0.00,
 Cody Thompson,2562759,WR,TB,@NYG,,,,,,,,,,,,,0.00,363,0.00,0.0
 Tyquan Thornton,2567958,WR,NE,@MIA,,,,,,,,,,,,,0.90,364,0.00,-0.9
 Jamari Thrash,2571955,WR,CLE,PIT,,,,,,,,,,,,,0.45,365,0.00,-0.45
-Cedric Tillman,2569681,WR,CLE,PIT,,,,,,,,,,,,,5.49,366,0.00,-5.49
+Cedric Tillman,2569681,WR,CLE,PIT,,,,,,,,,,,,,9.05,366,0.00,-9.05
 Mitchell Tinsley,2571650,WR,WAS,DAL,,,,,,,,,,,,,0.00,367,0.00,0.0
 Mason Tipton,2573403,WR,NO,Bye,,,,,,,,,,,,,,368,0.00,
 Jalen Tolbert,2567508,WR,DAL,@WAS,,,,,,,,,,,,,7.34,369,0.00,-7.34
@@ -375,7 +375,7 @@ Laquon Treadwell,2555214,WR,IND,DET,,,,,,,,,,,,,0.00,373,0.00,0.0
 Brycen Tremayne,2571665,WR,WAS,DAL,,,,,,,,,,,,,0.00,374,0.00,0.0
 Tre Tucker,2570059,WR,LV,DEN,,,,,,,,,,,,,6.32,375,0.00,-6.32
 DJ Turner,2565666,WR,LV,DEN,,,,,,,,,,,,,0.00,376,0.00,0.0
-Malik Turner,2561671,WR,FA,Bye,,,,,,,,,,,,,,377,0.00,
+Malik Turner,2561671,WR,SF,@GB,,,,,,,,,,,,,0.00,377,0.00,0.0
 KaVontae Turpin,2569509,WR,DAL,@WAS,,,,,,,,,,,,,3.62,378,0.00,-3.62
 Marquez Valdes-Scantling,2560907,WR,NO,Bye,,,,,,,,,,,,,,379,0.00,
 Devaughn Vele,2572006,WR,DEN,@LV,,,,,,,,,,,,,6.25,380,0.00,-6.25
@@ -405,11 +405,11 @@ Jared Wayne,2571017,WR,HOU,TEN,,,,,,,,,,,,,0.00,403,0.00,0.0
 Xavier Weaver,2573412,WR,ARI,@SEA,,,,,,,,,,,,,0.00,404,0.00,0.0
 Raleigh Webb,2568378,WR,FA,Bye,,,,,,,,,,,,,,405,0.00,
 Nsimba Webster,2563316,WR,CHI,MIN,,,,,,,,,,,,,0.00,406,0.00,0.0
-Nick Westbrook-Ikhine,2565477,WR,TEN,@HOU,,,,,,,,,,,,,1.05,407,0.00,-1.05
+Nick Westbrook-Ikhine,2565477,WR,TEN,@HOU,,,,,,,,,,,,,4.85,407,0.00,-4.85
 Cody White,2564313,WR,SEA,ARI,,,,,,,,,,,,,0.00,408,0.00,0.0
 David White Jr.,2573202,WR,JAX,Bye,,,,,,,,,,,,,,409,0.00,
 Xavier White,2573184,WR,FA,Bye,,,,,,,,,,,,,,410,0.00,
-Jordan Whittington,2572216,WR,LAR,PHI,,,,,,,,,,,,,4.54,411,0.00,-4.54
+Jordan Whittington,2572216,WR,LAR,PHI,,,,,,,,,,,,,6.10,411,0.00,-6.1
 Dontayvion Wicks,2569759,WR,GB,SF,,,,,,,,,,,,,7.25,412,0.00,-7.25
 Sam Wiglusz,2573752,WR,LAR,PHI,,,,,,,,,,,,,0.00,413,0.00,0.0
 Kristian Wilkerson,2565480,WR,LV,DEN,,,,,,,,,,,,,0.00,414,0.00,0.0
@@ -421,7 +421,7 @@ Seth Williams,2566052,WR,DAL,@WAS,,,,,,,,,,,,,0.00,419,0.00,0.0
 Cedrick Wilson Jr.,2560936,WR,NO,Bye,,,,,,,,,,,,,,420,0.00,
 Garrett Wilson,2568048,WR,NYJ,Bye,,,,,,,,,,,,,,421,0.00,
 Johnny Wilson,2572399,WR,PHI,@LAR,,,,,,,,,,,,,1.85,422,0.00,-1.85
-Michael Wilson,2570224,WR,ARI,@SEA,,,,,,,,,,,,,7.65,423,0.00,-7.65
+Michael Wilson,2570224,WR,ARI,@SEA,,,,,,,,,,,,,5.48,423,0.00,-5.48
 Roman Wilson,2572459,WR,PIT,@CLE,,,,,,,,,,,,,1.80,424,0.00,-1.8
 Juwann Winfree,2562956,WR,IND,DET,,,,,,,,,,,,,0.00,425,0.00,0.0
 Isaiah Winstead,2571324,WR,FA,Bye,,,,,,,,,,,,,,426,0.00,
@@ -429,6 +429,6 @@ Easop Winston,2564406,WR,FA,Bye,,,,,,,,,,,,,,427,0.00,
 Isaiah Wooden,2572899,WR,FA,Bye,,,,,,,,,,,,,,428,0.00,
 Mike Woods,2567481,WR,CLE,PIT,,,,,,,,,,,,,0.00,429,0.00,0.0
 Robert Woods,2540169,WR,HOU,TEN,,,,,,,,,,,,,1.32,430,0.00,-1.32
-Xavier Worthy,2572186,WR,KC,@CAR,,,,,,,,,,,,,7.70,431,0.00,-7.7
+Xavier Worthy,2572186,WR,KC,@CAR,,,,,,,,,,,,,8.31,431,0.00,-8.31
 Dareke Young,2568291,WR,SEA,ARI,,,,,,,,,,,,,0.00,432,0.00,0.0
 Olamide Zaccheaus,2562808,WR,WAS,DAL,,,,,,,,,,,,,4.68,433,0.00,-4.68

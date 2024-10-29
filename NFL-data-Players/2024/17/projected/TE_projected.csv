@@ -16,7 +16,7 @@ Shawn Bowman,2573689,TE,JAX,TEN,,,,,,,,,,,,,0.00,14,0.00,0.0
 Pharaoh Brown,2559018,TE,SEA,@CHI,,,,,,,,,,,,,0.99,15,0.00,-0.99
 Harrison Bryant,2563767,TE,LV,@NO,,,,,,,,,,,,,2.87,16,0.00,-2.87
 Lawrence Cager,2565492,TE,FA,Bye,,,,,,,,,,,,,,17,0.00,
-Grant Calcaterra,2568063,TE,PHI,DAL,,,,,,,,,,,,,0.00,18,0.00,0.0
+Grant Calcaterra,2568063,TE,PHI,DAL,,,,,,,,,,,,,1.34,18,0.00,-1.34
 Sal Cannella,2567197,TE,FA,Bye,,,,,,,,,,,,,,19,0.00,
 Stephen Carlson,2563044,TE,CHI,SEA,,,,,,,,,,,,,0.00,20,0.00,0.0
 McCallan Castles,2572732,TE,LAC,@NE,,,,,,,,,,,,,0.00,21,0.00,0.0
@@ -28,7 +28,7 @@ Zach Davidson,2566301,TE,BUF,NYJ,,,,,,,,,,,,,0.00,26,0.00,0.0
 Tyler Davis,2564178,TE,GB,@MIN,,,,,,,,,,,,,0.00,27,0.00,0.0
 Josiah Deguara,2563980,TE,JAX,TEN,,,,,,,,,,,,,0.00,28,0.00,0.0
 Will Dissly,2561046,TE,LAC,@NE,,,,,,,,,,,,,3.58,29,0.00,-3.58
-Greg Dulcich,2567520,TE,DEN,@CIN,,,,,,,,,,,,,0.37,30,0.00,-0.37
+Greg Dulcich,2567520,TE,DEN,@CIN,,,,,,,,,,,,,0.10,30,0.00,-0.1
 Payne Durham,2570353,TE,TB,CAR,,,,,,,,,,,,,0.85,31,0.00,-0.85
 Ross Dwelley,2561060,TE,ATL,@WAS,,,,,,,,,,,,,0.00,32,0.00,0.0
 Evan Engram,2557858,TE,JAX,TEN,,,,,,,,,,,,,8.67,33,0.00,-8.67
@@ -55,7 +55,7 @@ Mike Gesicki,2560994,TE,CIN,DEN,,,,,,,,,,,,,3.51,53,0.00,-3.51
 Dallas Goedert,2560995,TE,PHI,DAL,,,,,,,,,,,,,7.54,54,0.00,-7.54
 Cam Grandy,2572995,TE,CIN,DEN,,,,,,,,,,,,,0.00,55,0.00,0.0
 Kylen Granson,2566145,TE,IND,@NYG,,,,,,,,,,,,,1.38,56,0.00,-1.38
-Noah Gray,2566178,TE,KC,@PIT,,,,,,,,,,,,,5.20,57,0.00,-5.2
+Noah Gray,2566178,TE,KC,@PIT,,,,,,,,,,,,,4.93,57,0.00,-4.93
 Jacob Harris,2566220,TE,FA,Bye,,,,,,,,,,,,,,58,0.00,
 Zach Heins,2573424,TE,FA,Bye,,,,,,,,,,,,,,59,0.00,
 Peyton Hendershot,2568690,TE,KC,@PIT,,,,,,,,,,,,,0.00,60,0.00,0.0
@@ -86,7 +86,7 @@ Brevin Jordan,2566130,TE,HOU,BAL,,,,,,,,,,,,,0.00,84,0.00,0.0
 Nikola Kalinic,2567706,TE,LAR,ARI,,,,,,,,,,,,,0.00,85,0.00,0.0
 Hunter Kampmoyer,2566481,TE,FA,Bye,,,,,,,,,,,,,,86,0.00,
 Dalton Keene,2564616,TE,HOU,BAL,,,,,,,,,,,,,0.00,87,0.00,0.0
-Travis Kelce,2540258,TE,KC,@PIT,,,,,,,,,,,,,11.74,88,0.00,-11.74
+Travis Kelce,2540258,TE,KC,@PIT,,,,,,,,,,,,,10.09,88,0.00,-10.09
 Ko Kieft,2568306,TE,TB,CAR,,,,,,,,,,,,,0.00,89,0.00,0.0
 Dalton Kincaid,2569594,TE,BUF,NYJ,,,,,,,,,,,,,7.55,90,0.00,-7.55
 George Kittle,2558266,TE,SF,DET,,,,,,,,,,,,,10.99,91,0.00,-10.99
@@ -95,7 +95,7 @@ Dawson Knox,2562681,TE,BUF,NYJ,,,,,,,,,,,,,2.63,93,0.00,-2.63
 Trey Knox,2573301,TE,FA,Bye,,,,,,,,,,,,,,94,0.00,
 Charlie Kolar,2567280,TE,BAL,@HOU,,,,,,,,,,,,,0.89,95,0.00,-0.89
 Tucker Kraft,2569768,TE,GB,@MIN,,,,,,,,,,,,,6.68,96,0.00,-6.68
-Lucas Krull,2569092,TE,DEN,@CIN,,,,,,,,,,,,,5.09,97,0.00,-5.09
+Lucas Krull,2569092,TE,DEN,@CIN,,,,,,,,,,,,,4.22,97,0.00,-4.22
 Zack Kuntz,2570182,TE,NYJ,@BUF,,,,,,,,,,,,,0.00,98,0.00,0.0
 Sam LaPorta,2569726,TE,DET,@SF,,,,,,,,,,,,,6.34,99,0.00,-6.34
 Cameron Latu,2570302,TE,CLE,MIA,,,,,,,,,,,,,0.00,100,0.00,0.0
@@ -127,10 +127,10 @@ David Njoku,2557986,TE,CLE,MIA,,,,,,,,,,,,,9.29,125,0.00,-9.29
 Thomas Odukoya,2568828,TE,TEN,@JAX,,,,,,,,,,,,,0.00,126,0.00,0.0
 Kehinde Oginni Hassan,2568426,TE,FA,Bye,,,,,,,,,,,,,,127,0.00,
 Andrew Ogletree,2567712,TE,IND,@NYG,,,,,,,,,,,,,0.72,128,0.00,-0.72
-Chig Okonkwo,2567658,TE,TEN,@JAX,,,,,,,,,,,,,3.56,129,0.00,-3.56
+Chig Okonkwo,2567658,TE,TEN,@JAX,,,,,,,,,,,,,4.22,129,0.00,-4.22
 Albert Okwuegbunam,2563911,TE,PHI,DAL,,,,,,,,,,,,,0.00,130,0.00,0.0
 Josh Oliver,2562693,TE,MIN,GB,,,,,,,,,,,,,1.31,131,0.00,-1.31
-Cade Otton,2568312,TE,TB,CAR,,,,,,,,,,,,,6.04,132,0.00,-6.04
+Cade Otton,2568312,TE,TB,CAR,,,,,,,,,,,,,7.56,132,0.00,-7.56
 Donald Parham,2562394,TE,DEN,@CIN,,,,,,,,,,,,,0.00,133,0.00,0.0
 Colby Parkinson,2565180,TE,LAR,ARI,,,,,,,,,,,,,4.17,134,0.00,-4.17
 Henry Pearson,2570512,TE,FA,Bye,,,,,,,,,,,,,,135,0.00,
@@ -149,7 +149,7 @@ Sammis Reyes,2565807,TE,MIN,GB,,,,,,,,,,,,,0.00,147,0.00,0.0
 Giovanni Ricci,2563668,TE,FA,Bye,,,,,,,,,,,,,,148,0.00,
 Mike Rigerman,2572630,TE,FA,Bye,,,,,,,,,,,,,,149,0.00,
 Armani Rogers,2568351,TE,ATL,@WAS,,,,,,,,,,,,,0.00,150,0.00,0.0
-Hayden Rucci,2573764,TE,MIA,@CLE,,,,,,,,,,,,,0.00,151,0.00,0.0
+Hayden Rucci,2573764,TE,FA,Bye,,,,,,,,,,,,,,151,0.00,
 Jeremy Ruckert,2568042,TE,NYJ,@BUF,,,,,,,,,,,,,1.94,152,0.00,-1.94
 Brady Russell,2570635,TE,SEA,@CHI,,,,,,,,,,,,,0.00,153,0.00,0.0
 Drew Sample,2562720,TE,CIN,DEN,,,,,,,,,,,,,0.74,154,0.00,-0.74
@@ -176,7 +176,7 @@ Austin Stogner,2572893,TE,FA,Bye,,,,,,,,,,,,,,174,0.00,
 Jack Stoll,2567061,TE,PHI,DAL,,,,,,,,,,,,,0.45,175,0.00,-0.45
 Cade Stover,2572105,TE,HOU,BAL,,,,,,,,,,,,,1.41,176,0.00,-1.41
 Brenton Strange,2569912,TE,JAX,TEN,,,,,,,,,,,,,1.61,177,0.00,-1.61
-Stephen Sullivan,2565192,TE,FA,Bye,,,,,,,,,,,,,,178,0.00,
+Stephen Sullivan,2565192,TE,CAR,@TB,,,,,,,,,,,,,0.00,178,0.00,0.0
 Sage Surratt,2566911,TE,FA,Bye,,,,,,,,,,,,,,179,0.00,
 Geoff Swaim,2553454,TE,CLE,MIA,,,,,,,,,,,,,0.00,180,0.00,0.0
 Tommy Sweeney,2562750,TE,CHI,SEA,,,,,,,,,,,,,0.00,181,0.00,0.0
@@ -188,12 +188,12 @@ Logan Thomas,2543767,TE,FA,Bye,,,,,,,,,,,,,,186,0.00,
 Noah Togiai,2564865,TE,FA,Bye,,,,,,,,,,,,,,187,0.00,
 Eric Tomlinson,2553744,TE,LAC,@NE,,,,,,,,,,,,,0.00,188,0.00,0.0
 Jake Tonges,2567439,TE,SF,DET,,,,,,,,,,,,,0.00,189,0.00,0.0
-Robert Tonyan,2559270,TE,FA,Bye,,,,,,,,,,,,,,190,0.00,
+Robert Tonyan,2559270,TE,MIN,GB,,,,,,,,,,,,,0.00,190,0.00,0.0
 Adam Trautman,2564703,TE,DEN,@CIN,,,,,,,,,,,,,2.36,191,0.00,-2.36
 Tommy Tremble,2565914,TE,CAR,@TB,,,,,,,,,,,,,2.41,192,0.00,-2.41
 Cole Turner,2568354,TE,WAS,ATL,,,,,,,,,,,,,0.00,193,0.00,0.0
 C.J. Uzomah,2552559,TE,PHI,DAL,,,,,,,,,,,,,0.00,194,0.00,0.0
-Nick Vannett,2555289,TE,TEN,@JAX,,,,,,,,,,,,,0.00,195,0.00,0.0
+Nick Vannett,2555289,TE,TEN,@JAX,,,,,,,,,,,,,2.01,195,0.00,-2.01
 Travis Vokolek,2570431,TE,ARI,@LAR,,,,,,,,,,,,,0.00,196,0.00,0.0
 Darren Waller,2552408,TE,FA,Bye,,,,,,,,,,,,,,197,0.00,
 Jacob Warren,2573355,TE,FA,Bye,,,,,,,,,,,,,,198,0.00,
@@ -202,12 +202,12 @@ Treyton Welch,2573040,TE,NO,LV,,,,,,,,,,,,,0.00,200,0.00,0.0
 David Wells,2560925,TE,FA,Bye,,,,,,,,,,,,,,201,0.00,
 Jack Westover,2572786,TE,NE,LAC,,,,,,,,,,,,,0.00,202,0.00,0.0
 Blake Whiteheart,2571077,TE,CLE,MIA,,,,,,,,,,,,,0.00,203,0.00,0.0
-Josh Whyle,2569810,TE,TEN,@JAX,,,,,,,,,,,,,2.47,204,0.00,-2.47
+Josh Whyle,2569810,TE,TEN,@JAX,,,,,,,,,,,,,3.28,204,0.00,-3.28
 Mitchell Wilcox,2563749,TE,NE,LAC,,,,,,,,,,,,,0.00,205,0.00,0.0
 Jared Wiley,2572183,TE,KC,@PIT,,,,,,,,,,,,,0.54,206,0.00,-0.54
 Rod Williams,2569366,TE,PIT,KC,,,,,,,,,,,,,0.00,207,0.00,0.0
 Brayden Willis,2570293,TE,SF,DET,,,,,,,,,,,,,0.00,208,0.00,0.0
-Joel Wilson,2571724,TE,FA,Bye,,,,,,,,,,,,,,209,0.00,
+Joel Wilson,2571724,TE,CHI,SEA,,,,,,,,,,,,,0.00,209,0.00,0.0
 Charlie Woerner,2565129,TE,ATL,@WAS,,,,,,,,,,,,,0.71,210,0.00,-0.71
 Jelani Woods,2567724,TE,IND,@NYG,,,,,,,,,,,,,0.00,211,0.00,0.0
 Brock Wright,2567221,TE,DET,@SF,,,,,,,,,,,,,0.00,212,0.00,0.0
