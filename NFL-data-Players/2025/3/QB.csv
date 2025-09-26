@@ -1,7 +1,7 @@
 PlayerName,PlayerId,Pos,Team,PlayerOpponent,PassingYDS,PassingTD,PassingInt,RushingYDS,RushingTD,ReceivingRec,ReceivingYDS,ReceivingTD,RetTD,FumTD,2PT,Fum,FanPtsAgainst-pts,TouchCarries,TouchReceptions,Touches,TargetsReceptions,Targets,ReceptionPercentage,RzTarget,RzTouch,RzG2G,Rank,TotalPoints
 Caleb Williams,2571913,QB,CHI,DAL,298,4,,12,,,,,,,,,29.12,5,,5,,,,,1,,1,29.12
 Jalen Hurts,2564832,QB,PHI,LAR,226,3,,40,1,,,,,,,1,29.04,9,,9,,,,,4,,2,29.04
-Lamar Jackson,2560757,QB,BAL,DET,288,3,,35,,,,,,,,1,0.00,7,,7,,,,,,,3,27.52
+Lamar Jackson,2560757,QB,BAL,DET,288,3,,35,,,,,,,,1,27.52,7,,7,,,,,,,3,27.52
 Geno Smith,2539335,QB,LV,@WAS,289,3,,5,,,,,,,1,,26.06,2,,2,,,,,,,4,26.06
 Josh Allen,2560955,QB,BUF,MIA,213,3,,25,,,,,,,,1,21.95,4,,4,,,,,,,5,21.95
 Marcus Mariota,2552466,QB,WAS,LV,207,1,,40,1,,,,,,,1,20.28,6,,6,,,,,1,1,6,20.28
@@ -23,7 +23,7 @@ Spencer Rattler,2572327,QB,NO,@SEA,218,1,1,10,,,,,,,,,11.72,2,,2,,,,,,,21,11.72
 Aaron Rodgers,2506363,QB,PIT,@NE,139,2,1,1,,,,,,,,,11.66,4,,4,,,,,,,22,11.66
 Bryce Young,2569606,QB,CAR,ATL,121,,,8,1,,,,,,,,11.54,2,,2,,,,,,,23,11.64
 Jordan Love,2564007,QB,GB,@CLE,183,1,1,18,,,,,,,,,11.12,4,,4,,,,,,,24,11.12
-Jared Goff,2555334,QB,DET,@BAL,202,1,,6,,,,,,,,1,0.00,4,,4,,,,,,,25,10.38
+Jared Goff,2555334,QB,DET,@BAL,202,1,,6,,,,,,,,1,10.38,4,,4,,,,,,,25,10.38
 C.J. Stroud,2569819,QB,HOU,@JAX,204,1,2,22,,,,,,,,,10.36,4,,4,,,,,,,26,10.36
 Patrick Mahomes,2558125,QB,KC,@NYG,224,1,,2,,,,,,,,2,10.16,5,,5,,,,,,,27,10.16
 Trevor Lawrence,2566163,QB,JAX,HOU,222,,1,9,,,,,,,,,7.78,2,,2,,,,,,,28,7.78
@@ -37,7 +37,7 @@ Drew Lock,2562305,QB,SEA,NO,15,,,-1,,,,,,,,,17.52,1,,1,,,,,,,35,0.50
 Jaxson Dart,2574419,QB,NYG,KC,,,,3,,,,,,,,,5.40,1,,1,,,,,,,36,0.30
 Jalen Milroe,2574570,QB,SEA,NO,,,,3,,,,,,,,,17.52,1,,1,,,,,,,37,0.30
 Brandon Allen,2555365,QB,TEN,IND,,,,,,,,,,,,,11.96,,,,,,,,,,38,0.00
-Kyle Allen,2561177,QB,DET,@BAL,,,,,,,,,,,,,0.00,,,,,,,,,,39,0.00
+Kyle Allen,2561177,QB,DET,@BAL,,,,,,,,,,,,,10.38,,,,,,,,,,39,0.00
 Tyson Bagent,2570467,QB,CHI,DAL,,,,,,,,,,,,,29.12,,,,,,,,,,40,0.00
 Connor Bazelak,2574581,QB,TB,NYJ,,,,,,,,,,,,,15.72,,,,,,,,,,41,0.00
 Jason Bean,2573169,QB,FA,Bye,,,,,,,,,,,,,,,,,,,,,,,42,0.00
@@ -71,7 +71,7 @@ Seth Henigan,2574215,QB,JAX,HOU,,,,,,,,,,,,,7.78,,,,,,,,,,69,0.00
 Hendon Hooker,2569744,QB,CAR,ATL,,,,,,,,,,,,,11.54,,,,,,,,,,70,0.00
 Will Howard,2574494,QB,PIT,@NE,,,,,,,,,,,,,11.66,,,,,,,,,,71,0.00
 Sam Howell,2568333,QB,PHI,LAR,,,,,,,,,,,,,29.04,,,,,,,,,,72,0.00
-Tyler Huntley,2563560,QB,BAL,DET,,,,,,,,,,,,,0.00,,,,,,,,,,73,0.00
+Tyler Huntley,2563560,QB,BAL,DET,,,,,,,,,,,,,27.52,,,,,,,,,,73,0.00
 Josh Johnson,264,QB,WAS,LV,,,,,,,,,,,,,20.28,,,,,,,,,,74,0.00
 Emory Jones,2572796,QB,ATL,@CAR,,,,,,,,,,,,,4.94,,,,,,,,,,75,0.00
 Case Keenum,2532888,QB,CHI,DAL,,,,,,,,,,,,,29.12,,,,,,,,,,76,0.00
@@ -100,7 +100,7 @@ Austin Reed,2572971,QB,FA,Bye,,,,,,,,,,,,,,,,,,,,,,,98,0.00
 Desmond Ridder,2567256,QB,MIN,CIN,,,,,,,,,,,,,16.48,,,,,,,,,,99,0.00
 Kurtis Rourke,2574546,QB,SF,ARI,,,,,,,,,,,,,13.26,,,,,,,,,,100,0.00
 Mason Rudolph,2560860,QB,PIT,@NE,,,,,,,,,,,,,11.66,,,,,,,,,,101,0.00
-Cooper Rush,2559242,QB,BAL,DET,,,,,,,,,,,,,0.00,,,,,,,,,,102,0.00
+Cooper Rush,2559242,QB,BAL,DET,,,,,,,,,,,,,27.52,,,,,,,,,,102,0.00
 Brett Rypien,2562718,QB,CIN,@MIN,,,,,,,,,,,,,5.90,,,,,,,,,,103,0.00
 Shedeur Sanders,2574063,QB,CLE,GB,,,,,,,,,,,,,3.68,,,,,,,,,,104,0.00
 Tyler Shough,2574406,QB,NO,@SEA,,,,,,,,,,,,,11.72,,,,,,,,,,105,0.00
